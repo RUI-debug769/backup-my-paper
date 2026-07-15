@@ -1,0 +1,10 @@
+﻿rank,protein,ligand,est_dG,flavor,rationale
+1,MBL_lectin,acetic_acid,-8.54,pungent sour,"最大温度响应, 强烈下调"
+2,MBL_lectin,"2,5-dimethylpyrazine",-8.17,"nutty, roasted","烘烤风味, Maillard产物"
+3,MBL_lectin,ethyl_3-methylbutanoate,-7.42,fruity (RF-LT),
+4,Tyrosinase,acetic_acid,-8.54,pungent sour,"最大温度响应, 强烈下调"
+5,Tyrosinase,"2,5-dimethylpyrazine",-8.17,"nutty, roasted","烘烤风味, Maillard产物"
+6,Tyrosinase,ethyl_3-methylbutanoate,-7.42,fruity (RF-LT),
+7,H_lectin,acetic_acid,-8.54,pungent sour,"最大温度响应, 强烈下调"
+8,H_lectin,"2,5-dimethylpyrazine",-8.17,"nutty, roasted","烘烤风味, Maillard产物"
+9,H_lectin,ethyl_3-methylbutanoate,-7.42,fruity (RF-LT),

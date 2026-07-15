@@ -1,0 +1,11 @@
+# H_lectin (H-type lectin domain)
+receptor = H_lectin_prepared.pdbqt
+center_x = 6.0
+center_y = -1.2
+center_z = -6.4
+size_x = 194.4
+size_y = 85.4
+size_z = 276.7
+num_modes = 9
+energy_range = 3
+exhaustiveness = 16

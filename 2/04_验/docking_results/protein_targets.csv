@@ -1,0 +1,4 @@
+﻿name,uniprot,pdb,plddt,length,desc,priority
+MBL_lectin,A0A3N4L3H6,A0A3N4L3H6_lectin.pdb,92.2,444,Mannose-binding lectin,1
+Tyrosinase,A0A3N4KYW5,A0A3N4KYW5_tyrosinase.pdb,87.5,430,Tyrosinase (PPO family),2
+H_lectin,A0A3N4KJ30,A0A3N4KJ30_lectin.pdb,89.5,503,H-type lectin domain,3
