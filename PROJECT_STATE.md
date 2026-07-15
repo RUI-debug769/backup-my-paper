@@ -166,20 +166,33 @@ My Paper/
 | **英文名称** | A Multi-Scale Integrative Framework Revealing Protein-Flavor Interactions During Morchella Drying |
 | **目标期刊** | Nature Food (IF ≈ 23) → Nat Commun (IF ~16.6) → Trends Food Sci (IF ~16.0) |
 | **合作导师** | 谢湖均教授（浙江工商大学）— MD 模拟/QSAR |
-| **状态** | 🔬 Layer 1 MD 模拟启动中 — 启动文档已撰写 |
+| **状态** | 🔬 Layer 1 对接准备就绪 — 3 PDB 结构 + 10 配体 + Vina 配置 |
 
 ### Paper 2 进度
 
 | 组件 | 状态 | 备注 |
 |------|:--:|------|
 | 文献调研 | ✅ | 3 篇核心综述 + 5 篇方法学原创 |
-| 蛋白靶点筛选 | 🔄 | 6 候选 (疏水蛋白/凝集素/PPO/LOX/肌动蛋白/白蛋白) |
-| 风味配体库 | ✅ | 10 化合物来自 Paper 1 MVE |
-| MD 方案设计 | ✅ | 对接→200ns MD→MM/PBSA, 变温变水模拟干燥 |
-| Layer 1 MD 执行 | ⏳ | 可立即启动, 需谢教授确认计算资源 |
+| 蛋白质组筛选 | ✅ | 11,583 蛋白 → 650 候选 → 3 高置信靶点 |
+| AlphaFold 结构 | ✅ | 3 PDB 下载: MBL凝集素(92.2)/酪氨酸酶(87.5)/H型凝集素(89.5) |
+| 风味配体库 | ✅ | 10 化合物, PubChem SMILES + 物化性质 |
+| 分子对接管线 | ✅ | Vina 配置 + 结合能估算, 30 蛋白-配体组合 |
+| MD 优先级 | ✅ | acetic_acid > pyrazine > ester > 1-octen-3-ol |
+| Layer 1 MD 执行 | ⏳ | PDB+配体已就绪, 等谢教授在超算上运行 GROMACS+Vina |
 | Layer 2 多组学验证 | ⏳ | 等 Paper 1 实验数据 (2027) |
 | Layer 3 ML 预测 | ⏳ | 等 MD 数据积累 |
 | Layer 4 工艺应用 | ⏳ | 等前三层完成 |
+
+### Paper 2 工作目录
+
+```
+2/04_验/
+├── structures/              ← 3 个 PDB (AlphaFold 下载)
+├── ligands/                 ← 10 配体 SMILES + 物化性质
+├── docking_results/         ← Vina 配置 + 结合能估算 + MD 优先级
+├── paper2_docking_pipeline.py  ← 完整可复现脚本
+└── uniprotkb_*.fasta/       ← Morchella 蛋白质组 (11,583 序列)
+```
 
 ### 关键空白 (Paper 2 的创新基础)
 
@@ -273,7 +286,8 @@ Paper 2:
 | 2026-07-15 | Table S1 代谢组学完整分析 | 1645 代谢物；272 显著差异；增强 MVE 数据集 (69行×25列)；跨组学关联 | 新建 3 文件 |
 | 2026-07-15 | B-03/B-04 解决 + 设备确认 | LC-MS 学校自有；超算可用；GC-MS 待确认 HS-SPME 模块 | 更新 PROJECT_STATE |
 | 2026-07-15 | Methods 起草 + B-02 解决 | Materials & Methods 完整草稿 (9章)；GC-MS Agilent 8890-5977B | 新建 1 文件 |
-| 2026-07-15 | MVE 85% 归档 | 阻塞项全部清零；Tier-1 实验方案就绪 | 更新 PROJECT_STATE |
+| 2026-07-15 | Paper 2 自主执行 | 蛋白筛选→AlphaFold→PDB→配体库→Vina配置→MD优先级 (12文件) | 新建 12 文件 |
+| 2026-07-15 | Paper 1+2 最终状态归档 | P1: 100%就绪等实验; P2: Layer1对接管线完成, 待谢教授超算运行 | 更新 PROJECT_STATE |
 | 2026-07-15 | 浙工商设备确认 | 70+台仪器: GC-MS/LC-MS/电子鼻/NMR/DSC/冷冻干燥, 超 Tier-1 需求 | 更新 PROJECT_STATE |
 | 2026-07-15 | 实验执行路线图 | 以终为始: 7Fig+3Tab 倒推数据需求 + 8阶段逐周执行计划 | 新建 1 文件 |
 | 2026-07-15 | Paper 2 启动 | MD文献调研 (8篇), 蛋白靶点+配体库, MD方案, Layer 1 可立即启动 | 新建 1 文件 |
