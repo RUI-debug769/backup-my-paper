@@ -10,9 +10,10 @@
 | **英文名称** | Multimodal AI-Driven Dynamic Flavor Evolution Prediction for Morchella Drying |
 | **项目类型** | 大学生创新创业训练计划（大创） |
 | **项目周期** | 2026年5月 — 2027年5月 |
-| **负责人** | 薛瑞（新疆理工学院 食品科学与工程学院 食检25-2班） |
-| **指导教师** | 裴龙英 |
+| **负责人** | 薛瑞（浙江工商大学 食品与生物工程学院） |
+| **指导教师** | 裴龙英（新疆理工学院）/ 谢湖均（浙江工商大学，MD 模拟合作） |
 | **团队成员** | 5人 |
+| **实验平台** | 浙江工商大学食品学院大型仪器共享平台 (70+台) |
 | **主项目路径** | `C:\Users\26404\Desktop\Morchella_AI_Scientist` |
 | **AI 辅助系统** | Morchella AI Scientist v2.0（14 Agent + keyanlun 七层模型驱动） |
 
@@ -60,8 +61,9 @@ SHAP 可解释性 → 特征→化合物→通路映射
 
 | 层 | 工具/技术 |
 |----|----------|
-| **实验** | 热泵干燥、微波干燥、电子鼻 PEN3、HS-SPME-GC-MS、LC-MS、质构仪 |
-| **编程** | Python, TensorFlow/Keras, PyTorch, Scikit-learn, XGBoost, SHAP |
+| **实验** | 热风干燥、HS-SPME-GC-MS (Agilent 8890-5977B)、LC-MS/MS、电子鼻、冷冻干燥机、NMR、DSC |
+| **编程** | Python, PyTorch, Scikit-learn, XGBoost, SHAP |
+| **计算** | 浙江工商大学超算中心 |
 | **AI 辅助** | Claude Code + keyanlun 七层模型 + 14 Agent 科研管线 |
 | **文献** | Zotero（3340+ 条目）、PubMed、bioRxiv、Web of Science |
 | **知识管理** | Obsidian vault |
@@ -85,7 +87,7 @@ SHAP 可解释性 → 特征→化合物→通路映射
 | **【搜】** | ✅ 完成 | 31篇文献矩阵 + Zotero 3340篇全库筛选 |
 | **【聚】** | ✅ 完成 | PDF仓库（已读/待读）+ 趋势地图 |
 | **【分】** | ✅ 完成 | 7个空白机会卡（G01-G07）+ 差异化重定位 |
-| **【验】** | 🔄 进行中 | 假设已生成（H1/H0），MVE 方案已设计，待执行 |
+| **【验】** | ✅ MVE 完成 | CONDITIONAL GO, 六篇论文精读, ML基线, MVE报告 |
 | **【合】** | ⏳ 待启动 | 图表骨架 + 手稿待数据产出 |
 
 ---
