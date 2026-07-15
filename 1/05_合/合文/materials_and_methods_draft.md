@@ -67,7 +67,7 @@ where $D_0$ is the pre-exponential factor (m²·s⁻¹), $R$ is the universal ga
 
 ## 2.4 HS-SPME-GC–MS Analysis of Volatile Compounds
 
-> ⚠️ **待确认**: 需验证学校 GC-MS 是否配备 HS-SPME 进样模块。若无，替代方案见 Section 2.4.4。
+> ✅ **已确认**: Agilent 8890-5977B，完全支持 HS-SPME。
 
 ### 2.4.1 HS-SPME Extraction
 
@@ -77,7 +77,7 @@ The SPME fiber (50/30 µm DVB/CAR/PDMS, Supelco, Bellefonte, PA, USA) was pre-co
 
 ### 2.4.2 GC–MS Conditions
 
-Analysis was performed on a gas chromatograph (GC, [Model]) coupled to a mass spectrometer (MS, [Model], [Manufacturer]). Volatile compounds were separated on a DB-WAX capillary column (30 m × 0.25 mm × 0.25 µm film thickness; Agilent Technologies, Santa Clara, CA, USA) or an equivalent polar column. The carrier gas was helium (purity ≥ 99.999 %) at a constant flow rate of 1.0 mL·min⁻¹.
+Analysis was performed on an Agilent 8890 gas chromatograph coupled to an Agilent 5977B single quadrupole mass spectrometer (Agilent Technologies, Santa Clara, CA, USA). Volatile compounds were separated on a DB-WAX capillary column (30 m × 0.25 mm × 0.25 µm film thickness; Agilent Technologies) or an equivalent polar column. The carrier gas was helium (purity ≥ 99.999 %) at a constant flow rate of 1.0 mL·min⁻¹.
 
 The oven temperature program was as follows: initial temperature 40 °C held for 3 min, ramped to 120 °C at 5 °C·min⁻¹, then to 230 °C at 10 °C·min⁻¹, held for 5 min. The total run time was approximately 35 min. The MS transfer line and ion source temperatures were set to 250 °C and 230 °C, respectively. Mass spectra were acquired in electron ionization (EI) mode at 70 eV over an *m/z* range of 35–450 amu in full-scan mode.
 
@@ -87,9 +87,9 @@ Volatile compounds were tentatively identified by matching mass spectra against 
 
 The odor activity value (OAV) for each identified compound was calculated as the ratio of its concentration to its orthonasal odor detection threshold in water, as reported in the literature. Compounds with OAV ≥ 1 were considered to contribute to the overall aroma profile of dried *M. sextelata*.
 
-### 2.4.4 Contingency Method (Alternative to HS-SPME)
+### 2.4.4 Instrument Configuration — Confirmed
 
-If the HS-SPME module is unavailable, volatile compounds may be extracted by simultaneous distillation–extraction (SDE) or solvent-assisted flavor evaporation (SAFE) with dichloromethane as the extraction solvent, followed by concentration under a gentle nitrogen stream to ~200 µL prior to liquid injection (1 µL, split ratio 10:1) into the GC–MS.
+The Agilent 8890-5977B system fully supports HS-SPME as a standard inlet configuration. The SPME fiber assembly (50/30 µm DVB/CAR/PDMS, 24 Ga, 2 cm; Supelco) was used with the Agilent SPME inlet liner (0.75 mm i.d., deactivated, splitless type) for optimized desorption efficiency and peak shape.
 
 ## 2.5 LC-MS/MS Analysis of Non-Volatile Metabolites
 
