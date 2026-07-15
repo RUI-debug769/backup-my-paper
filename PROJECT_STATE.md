@@ -196,6 +196,7 @@ Paper 2:
 | 检索式记录 | `1/01_搜/检索式记录.md` |
 | Storyline 总览 | `1/05_合/合图/Storyline总览.md` |
 | 自查清单 | `1/05_合/手稿/Checklist-自查.md` |
+| **导师汇报文档** | `0/导师汇报-研究进展与毕业论文规划.docx` |
 | GitHub 备份 | https://github.com/RUI-debug769/backup-my-paper |
 
 ---
@@ -208,6 +209,7 @@ Paper 2:
 | 2026-07-15 | 决策 D-06 + Idea-01 MVE 启动 | 核心假设.md、MVE方案.md；三篇论文精读 + Ivanova 干燥曲线重建 | 新建 5 文件 |
 | 2026-07-15 | MVE ML 基线 + 数据补全 | 六篇论文精读；挥发物数据提取；RF/XGBoost 建模；Gap statement | 新建 7 文件，更新 3 文件 |
 | 2026-07-15 | MVE 最终报告 + 状态归档 | MVE报告.md: CONDITIONAL GO；Tier-1 实验设计 (72 样本)；PROJECT_STATE 更新 | 累计: 15 新建, 5 更新, 7 次 Git push |
+| 2026-07-15 | 导师汇报文档生成 + 博士论文规划 | 导师汇报-研究进展与毕业论文规划.docx (12KB, 9章)；博士论文级撰写路线图 | 新建 1 文件，更新 PROJECT_STATE |
 
 ---
 
