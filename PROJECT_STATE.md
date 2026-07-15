@@ -151,7 +151,8 @@ My Paper/
 | 2026-07-14 | G07 Digital Twin 远期储备 | 写入 Discussion 展望提升论文高度 |
 | 2026-07-14 | 主攻 Idea-01（G01+G02+G04 三合一） | 创新性最高、差异化最显著 |
 | 2026-07-15 | **文献数据先行验证**（D-06） | 无需等实验，立即启动 MVE；用已发表论文数据验证核心假设 |
-| 2026-07-15 | **MVE 完成 → Tier-1**（D-07） | CONDITIONAL GO: 信号存在(\|ρ\|≈0.9)但文献数据不足，需 Tier-1 实验 |
+| 2026-07-15 | **MVE 完成 → Tier-1**（D-07） | CONDITIONAL GO: 信号存在, 需 Tier-1 实验 |
+| 2026-07-15 | **Paper 2 启动**（D-09） | MD模拟 Layer 1 可立即启动, 与 Paper 1 同步推进, 无需等实验数据 |
 
 ---
 
@@ -163,10 +164,30 @@ My Paper/
 |------|------|
 | **完整名称** | 多尺度整合框架揭示羊肚菌干燥过程中蛋白质-风味相互作用 |
 | **英文名称** | A Multi-Scale Integrative Framework Revealing Protein-Flavor Interactions During Morchella Drying |
-| **目标期刊** | Nature Food (IF ≈ 23) |
-| **时间定位** | 2027-2028（大创结题后启动） |
-| **潜在合作** | 谢湖均教授（浙江工商大学）— MD 模拟/QSAR |
-| **状态** | ⏳ 概念阶段 — Proposal Outline 已起草 |
+| **目标期刊** | Nature Food (IF ≈ 23) → Nat Commun (IF ~16.6) → Trends Food Sci (IF ~16.0) |
+| **合作导师** | 谢湖均教授（浙江工商大学）— MD 模拟/QSAR |
+| **状态** | 🔬 Layer 1 MD 模拟启动中 — 启动文档已撰写 |
+
+### Paper 2 进度
+
+| 组件 | 状态 | 备注 |
+|------|:--:|------|
+| 文献调研 | ✅ | 3 篇核心综述 + 5 篇方法学原创 |
+| 蛋白靶点筛选 | 🔄 | 6 候选 (疏水蛋白/凝集素/PPO/LOX/肌动蛋白/白蛋白) |
+| 风味配体库 | ✅ | 10 化合物来自 Paper 1 MVE |
+| MD 方案设计 | ✅ | 对接→200ns MD→MM/PBSA, 变温变水模拟干燥 |
+| Layer 1 MD 执行 | ⏳ | 可立即启动, 需谢教授确认计算资源 |
+| Layer 2 多组学验证 | ⏳ | 等 Paper 1 实验数据 (2027) |
+| Layer 3 ML 预测 | ⏳ | 等 MD 数据积累 |
+| Layer 4 工艺应用 | ⏳ | 等前三层完成 |
+
+### 关键空白 (Paper 2 的创新基础)
+
+**食用菌蛋白-风味相互作用的 MD 模拟 = 0 篇论文。** 干燥过程中蛋白-风味动态结合的分子模拟是绝对空白领域。
+
+### 启动文档
+
+→ `2/00_项目管理/Paper2_启动文档.md`
 
 ### 四层整合框架
 
@@ -225,6 +246,8 @@ Paper 2:
 | **MVE 报告 (Idea-01)** | `1/04_验/idea-01/MVE报告.md` |
 | MVE + ML 数据 | `1/04_验/idea-01/数据/` (5 CSV + 3 Py) |
 | **Gap statement** | `1/05_合/合文/gap_statement_introduction.md` |
+| **实验执行路线图** | `1/00_项目管理/实验执行路线图.md` |
+| **Paper 2 启动文档** | `2/00_项目管理/Paper2_启动文档.md` |
 | Paper 2 大纲 | `2/Nature_Food_Proposal_Outline.docx` |
 | Paper 2 总览 | `2/00_项目管理/README.md` |
 | 目标期刊（P1） | `1/00_项目管理/目标期刊-调研.md` |
@@ -252,6 +275,9 @@ Paper 2:
 | 2026-07-15 | Methods 起草 + B-02 解决 | Materials & Methods 完整草稿 (9章)；GC-MS Agilent 8890-5977B | 新建 1 文件 |
 | 2026-07-15 | MVE 85% 归档 | 阻塞项全部清零；Tier-1 实验方案就绪 | 更新 PROJECT_STATE |
 | 2026-07-15 | 浙工商设备确认 | 70+台仪器: GC-MS/LC-MS/电子鼻/NMR/DSC/冷冻干燥, 超 Tier-1 需求 | 更新 PROJECT_STATE |
+| 2026-07-15 | 实验执行路线图 | 以终为始: 7Fig+3Tab 倒推数据需求 + 8阶段逐周执行计划 | 新建 1 文件 |
+| 2026-07-15 | Paper 2 启动 | MD文献调研 (8篇), 蛋白靶点+配体库, MD方案, Layer 1 可立即启动 | 新建 1 文件 |
+| 2026-07-15 | Paper 1 完善度检查 + Paper 2 同步 | P1前期100%完成, 等实验; P2 Layer 1 MD可立即开始 | 更新 PROJECT_STATE |
 
 ---
 
