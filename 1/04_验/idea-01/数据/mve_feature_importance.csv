@@ -1,0 +1,7 @@
+﻿feature,feature_cn,rf_bootstrap_mean,rf_bootstrap_std,spearman_rho
+drying_time_min,干燥时间 (min),0.5023867676767682,0.049260370659677644,0.0722
+temp_C,温度 (°C),0.49761323232323207,0.04926037065967762,-0.0722
+Deff_1,Deff 第一阶段,0.0,0.0,-0.0722
+Deff_2,Deff 第二阶段,0.0,0.0,-0.0722
+Ea_1,活化能 Ea₁,0.0,0.0,
+Ea_2,活化能 Ea₂,0.0,0.0,
