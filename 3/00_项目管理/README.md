@@ -1,161 +1,87 @@
-# Paper B — MD 模拟独立项目总览
+# 00_项目管理 — 项目总览
 
-> 🧬 **独立项目**：与 Paper 1/2 解耦，可独立投稿
-> 📅 周期：2026-07 → 2027-01
-> 🎯 目标期刊：Food Hydrocolloids (IF ~10.7) → Food Chemistry (IF ~8.5)
-> 👨‍🏫 合作导师：谢湖均教授（浙江工商大学，MD 模拟专长）
-> 🖥️ 计算资源：4× NVIDIA L20 46GB（本地服务器）
+---
+
+## 项目基本信息
+
+| 字段 | 内容 |
+|------|------|
+| **项目名称** | 多尺度整合框架揭示羊肚菌干燥过程中蛋白质-风味相互作用：分子动力学模拟、多组学与机器学习的融合 |
+| **英文名称** | A Multi-Scale Integrative Framework Revealing Protein-Flavor Interactions During Morchella Drying: Integrating MD Simulation, Multi-Omics, and Machine Learning |
+| **项目类型** | 后续研究项目（大创 Paper 1 的延伸与深化） |
+| **目标期刊** | **Nature Food** (IF ≈ 20-25, JCR Q1) |
+| **时间定位** | 2027-2028（大创结题后启动） |
+| **负责人** | 薛瑞 |
+| **潜在合作导师** | 谢湖均教授（浙江工商大学）— MD 模拟/QSAR 专长 |
 
 ---
 
 ## 核心科学问题
 
-> **干燥温度如何通过改变羊肚菌蛋白构象，调控风味挥发性化合物的非共价结合与释放？**
+> **干燥过程中羊肚菌蛋白质构象变化如何通过分子水平的非共价/共价相互作用调控风味挥发性化合物的保留与释放？**
+
+---
+
+## 四层整合框架
 
 ```
-Paper B（本篇）                          Paper 1 / Paper 2
-"分子层面：蛋白如何抓住风味？"            "宏观层面：什么条件风味好？"
-Mechanism at atomic scale               Quality at macroscopic scale
-MD 模拟 + MM/PBSA + 关键残基             AI 预测 + 实验验证
-纯计算 → 独立投稿                       实验+计算 → 需配合
+Layer 1: 分子动力学模拟 (MD)
+  └── 原子尺度：蛋白质构象变化 + 风味结合自由能 + 关键残基
+
+Layer 2: 多组学验证
+  └── 分子尺度：荧光/CD/FTIR + GC-MS 顶空定量
+
+Layer 3: 机器学习预测
+  └── 数据尺度：GNN/Transformer → 结合亲和力高通量预测
+
+Layer 4: 干燥工艺应用
+  └── 宏观尺度：aw 临界阈值 → 风味定向保留策略
 ```
 
 ---
 
-## 与其他 Paper 的关系
+## 与 Paper 1 的关系
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                    三篇论文的知识图谱                       │
-│                                                         │
-│  Paper 1 (实验+AI)                                      │
-│  "风味如何变化？"  — 关联层                                │
-│  干燥实验 → GC-MS/LC-MS → LSTM → SHAP                    │
-│               │                                         │
-│               │ 风味化合物清单 + 温度响应曲线                │
-│               ↓                                         │
-│  Paper B (纯计算)  ← 本篇                                 │
-│  "为什么会变化？"  — 因果层                                │
-│  蛋白结构 → 分子对接 → MD → MM/PBSA → 关键残基             │
-│               │                                         │
-│               │ 结合自由能 + 残基贡献 + 温度效应             │
-│               ↓                                         │
-│  Paper 2 (整合)                                          │
-│  "如何预测与调控？" — 系统层                                │
-│  MD + 多组学验证 + ML + 工艺优化                           │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+Paper 1 (大创 2026-2027)          Paper 2 (后续 2027-2028)
+─────────────────────────        ─────────────────────────
+"什么条件风味好"                   "为什么这个条件风味好"
+Condition → Quality              Mechanism → Principle
+ML 预测 + 代谢通路                 MD 模拟 + 蛋白-风味结合机制
+Food Chemistry / CEA              Nature Food
 ```
 
-**关键解耦逻辑**：Paper B 使用 Paper 1 鉴定的风味化合物清单作为配体输入，但**不依赖** Paper 1 的任何实验数据来支撑其核心论点——MD 模拟自身就是完整的证据链。Paper B 的结论是因果性的（"残基X通过氢键结合风味分子Y"），Paper 1 的结论是关联性的（"温度升高→酯类减少"），两者回答不同的科学问题。
+Paper 1 提供：关键风味化合物清单、最优干燥条件、OAV 数据
+Paper 2 在此基础上：揭示分子机制、建立原子级理解、实现范式升级
 
 ---
 
-## 研究框架
+## 差异化创新点
 
-```
-Layer 1: 蛋白靶点准备
-  ├── AlphaFold DB → 3 个 PDB (MBL_lectin, Tyrosinase, H-type lectin)
-  ├── pLDDT 评估 (>70 可用, >90 高置信)
-  └── PROPKA 质子化 (pH 6.5)
-
-Layer 2: 配体库构建
-  ├── 10 个关键风味化合物 (来自 Paper 1 MVE + Liao 2025)
-  ├── SMILES → 3D 结构 → GAFF2 力场参数化
-  └── 分类: 醛类(3) / 醇类(2) / 酯类(2) / 酸类(1) / 吡嗪(1) / 萜烯(1)
-
-Layer 3: 分子对接（初筛）
-  ├── AutoDock Vina: 3 蛋白 × 10 配体 = 30 对接计算 ✅ 已完成 13 对
-  ├── 结合能排序 → 筛选 Top-5 复合物进入 MD
-  └── 结合位点可视化 (PyMOL/ChimeraX)
-
-Layer 4: MD 模拟（精算）
-  ├── AMBER 24 (ff19SB + GAFF2)
-  ├── 每个复合物: 200 ns × 4 温度 (25/45/55/65°C) × 3 重复
-  ├── 变温水盒 (模拟干燥过程) — 方法学创新
-  └── 4×L20 并行 (~2-3 周生产模拟)
-
-Layer 5: 自由能分析
-  ├── MM/PBSA: ΔG_binding = G_complex - G_protein - G_ligand
-  ├── 每个残基对结合能的贡献 (自由能分解)
-  ├── 氢键占有率 + 距离分析
-  └── 温度依赖: ΔΔG(T1→T2) 温度效应量化
-
-Layer 6: 论文输出
-  ├── 3-4 Figures + 2 Tables
-  └── 目标期刊: Food Hydrocolloids
-```
+| 维度 | 现状（2026） | 本研究 |
+|------|------------|--------|
+| **研究对象** | 食用菌蛋白-风味 MD：0 篇 | **首次** |
+| **模拟条件** | 所有 MD 均在溶液中进行 | **首次模拟干燥动态过程** |
+| **方法整合** | MD 或 ML 单独使用 | **MD + 多组学 + ML 三合一闭环** |
+| **机制深度** | "什么化合物变化了" | **"为什么变、怎么变的"（原子层面）** |
 
 ---
 
-## 创新点矩阵
+## 关键文献基础
 
-| 维度 | 已有研究（大豆/亚麻籽/酪蛋白+风味MD） | 本篇 |
-|------|------|------|
-| **蛋白类型** | 植物贮藏蛋白、乳蛋白 | **食用菌蛋白（绝对空白）** |
-| **配体多样性** | 1-3 种同类配体 | **6 类 10 种风味化合物** |
-| **温度维度** | 单温度 (25°C 或 37°C) | **4 温度梯度 (25/45/55/65°C)** |
-| **过程模拟** | 静态平衡态 | **变温水盒模拟干燥过程** |
-| **结合类型覆盖** | 单一（主要是氢键+疏水） | **氢键 + π-π + 静电 + 疏水全覆盖** |
-| **产业关联** | 无 | **干燥工艺参数→风味保留直接指导** |
-
----
-
-## 目标期刊路线图
-
-```
-🥇 Food Hydrocolloids (IF ~10.7, CAS Q1)
-   └── 近年大量发表食品蛋白-配体 MD (Zhao 2026 亚麻籽蛋白; Li 2024 SPI)
-   └── 对口程度: ★★★★★
-
-🥈 Food Chemistry (IF ~8.5, CAS Q1)
-   └── 综合性食品科学顶刊，接收计算方法学论文
-   └── 对口程度: ★★★★
-
-🥉 Journal of Agricultural and Food Chemistry (IF ~6.1, CAS Q1-2)
-   └── 农化顶刊，曾发食品蛋白-风味结合研究
-   └── 对口程度: ★★★★
-```
+| # | 文献 | 对本研究的作用 |
+|---|------|--------------|
+| 1 | Jin & Wei (2024) — MD for food protein-ligand interactions | MD 方法论基础 |
+| 2 | Trends Food Sci (2026) — Multi-scale aroma-food interactions | 多尺度整合框架 |
+| 3 | Dai et al. (2025) — Protein-flavor interactions review | 蛋白-风味机制全景 |
+| 4 | Guo L et al. (2024) — Morchella GC-IMS+LC-MS+RF | 羊肚菌基线数据 |
+| 5 | Schreurs M et al. (2024) — ML beer flavor Nat Commun | 方法论标杆 |
 
 ---
 
-## 技术栈
+## 关联资源
 
-| 层 | 工具/技术 |
-|----|----------|
-| **蛋白结构** | AlphaFold DB, UniProt, SWISS-MODEL |
-| **分子对接** | AutoDock Vina, OpenBabel, PyMOL, ChimeraX |
-| **MD 模拟** | AMBER 24 (ff19SB + GAFF2), GROMACS (备选) |
-| **自由能计算** | MM/PBSA (AMBER), 伞形采样 (可选), SMD (可选) |
-| **分析** | CPPTRAJ, MDAnalysis, Python (numpy/scipy/matplotlib) |
-| **文献** | Zotero (3340+), PubMed, bioRxiv, Web of Science |
-| **基础设施** | WSL2 Ubuntu 22.04, 4× NVIDIA L20 46GB |
-
----
-
-## 时间线
-
-```
-2026年7月    ██░░░░░░░░  检索式构建 + 文献调研 ← 当前
-2026年7月    ███░░░░░░░  补充对接 (H-type lectin + 扩展配体)
-2026年8月    █████░░░░░  MD 试跑 (1复合物 200ns)
-2026年8-9月  ██████░░░░  正式 MD 生产 (3复合物 × 4温度)
-2026年9月    ████████░░  MM/PBSA + 残基分解 + 氢键分析
-2026年10月   █████████░  Figures + Tables
-2026年11月   手稿撰写
-2026年12月   内审 + 修改
-2027年1月    ██████████  投稿 Food Hydrocolloids
-```
-
----
-
-## 文件快速索引
-
-| 用途 | 路径 |
-|------|------|
-| 项目总览 | `3/00_项目管理/README.md` |
-| 检索式记录 | `3/01_搜/检索式记录.md` |
-| 关键词演化 | `3/01_搜/关键词演化.md` |
-| Paper 2 MVE（参考） | `../2/04_验/` |
-| Paper 2 启动文档（MD方案） | `../2/00_项目管理/Paper2_启动文档.md` |
-| 项目状态追踪 | `../PROJECT_STATE.md` |
+- 本子大纲：`Nature_Food_Proposal_Outline.docx`（本目录）
+- 大创论文目录：`C:\Users\26404\Desktop\My Paper\1\`
+- 主项目：`C:\Users\26404\Desktop\Morchella_AI_Scientist`
+- 谢湖均论文：`C:\Users\26404\Desktop\research\XieHujun_AI_Food_Papers\`
