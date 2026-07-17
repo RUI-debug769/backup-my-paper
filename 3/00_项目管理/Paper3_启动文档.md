@@ -1,4 +1,4 @@
-# Paper 2 启动文档 — MD 模拟蛋白-风味相互作用
+# Paper 3 启动文档 — MD 模拟蛋白-风味相互作用
 
 > 📅 2026-07-15 | 🎯 目标期刊: Nature Food (IF ~23) → Nat Commun (IF ~16.6) → Trends Food Sci (IF ~16.0)
 > 🧬 核心方法: MD 模拟 + 多组学验证 + ML 预测 + 干燥工艺应用
@@ -11,7 +11,7 @@
 > **干燥过程中羊肚菌蛋白质构象变化如何通过分子水平的非共价/共价相互作用调控风味挥发性化合物的保留与释放？**
 
 ```
-Paper 1                                Paper 2
+Paper 1                                Paper 3
 "什么条件风味好？"        ──→          "为什么这个条件风味好？"
 Condition → Quality                   Mechanism → Principle
 ML 预测 + 代谢通路                     MD 模拟 + 蛋白-风味结合机制
@@ -210,7 +210,7 @@ Layer 4: 干燥工艺应用 (2028年, 前三层完成后)
   └── 🟡 需要前三层数据
 ```
 
-### Paper 1 → Paper 2 知识传递
+### Paper 1 + Paper 2 → Paper 3 知识传递
 
 ```
 Paper 1 产出                        Paper 2 输入

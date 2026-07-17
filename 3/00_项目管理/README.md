@@ -40,19 +40,20 @@ Layer 4: 干燥工艺应用
 
 ---
 
-## 与 Paper 1 的关系
+## 与 Paper 1 / Paper 2 的关系
 
 ```
-Paper 1 (大创 2026-2027)          Paper 2 (后续 2027-2028)
-─────────────────────────        ─────────────────────────
-"什么条件风味好"                   "为什么这个条件风味好"
-Condition → Quality              Mechanism → Principle
-ML 预测 + 代谢通路                 MD 模拟 + 蛋白-风味结合机制
-Food Chemistry / CEA              Nature Food
+Paper 1 (大创 2026-2027)     Paper 2 (纯计算 2026-2027)     Paper 3 (后续 2027-2028)
+───────────────────────     ────────────────────────     ─────────────────────────
+"什么条件风味好"              "为什么会变化？"               "如何预测与调控？"
+Condition → Quality         Mechanism at atomic scale    Prediction & Control
+ML 预测 + 代谢通路            MD 模拟 + MM/PBSA            MD + 多组学 + ML 闭环
+Food Chemistry              Food Hydrocolloids           Nature Food
 ```
 
 Paper 1 提供：关键风味化合物清单、最优干燥条件、OAV 数据
-Paper 2 在此基础上：揭示分子机制、建立原子级理解、实现范式升级
+Paper 2 提供：结合自由能 + 关键残基 + 温度效应曲线
+Paper 3 在此基础上：多尺度整合、ML 预测、干燥工艺优化
 
 ---
 
