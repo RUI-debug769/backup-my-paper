@@ -1,0 +1,2 @@
+﻿dataset_n_rows,dataset_n_temps,dataset_n_compounds,spearman_max_abs_rho,spearman_top_feature,rf_bootstrap_r2_mean,rf_bootstrap_r2_std,rf_top_feature,rf_top_importance,xgb_r2,mve_verdict,mve_recommendation
+46,2,23,0.0722,temp_C,-0.1976,0.248,drying_time_min,0.5024,0.0025,NO_GO,信号不足，建议重新审视特征工程或降级方案

@@ -1,0 +1,24 @@
+﻿compound,category,trend,abundance_LT_45C,abundance_MT_55C,abundance_HT_65C,delta_MT_vs_LT,delta_HT_vs_MT,delta_HT_vs_LT,abs_delta_max,p_value,is_rf_indicator
+acetic acid,acids,down,4.1,3.6,2.8,-0.5,-0.8,-1.3,1.3,<0.001,False
+ethyl acetate,esters,down,3.8,3.4,3.0,-0.4,-0.4,-0.8,0.8,<0.001,False
+butanal-D,aldehydes,down,2.9,2.5,2.1,-0.4,-0.4,-0.8,0.8,<0.001,True
+1-hexanol,alcohols,down,3.75,3.5,3.0,-0.25,-0.5,-0.75,0.75,<0.001,True
+ethyl 3-methylbutanoate,esters,down,3.5,3.25,2.75,-0.25,-0.5,-0.75,0.75,<0.001,True
+3-methylbutan-1-ol-M,alcohols,down,3.25,3.0,2.6,-0.25,-0.4,-0.65,0.65,<0.001,True
+3-carene,hydrocarbons,up,3.2,3.55,3.8,0.35,0.25,0.6,0.6,<0.001,False
+3-methylbutanal,aldehydes,down,3.4,3.15,2.8,-0.25,-0.35,-0.6,0.6,<0.001,False
+2-methyl-1-propanol,alcohols,down,2.9,2.65,2.3,-0.25,-0.35,-0.6,0.6,<0.001,True
+3-hydroxy-2-butanone-M,ketones,down,3.8,3.5,3.25,-0.3,-0.25,-0.55,0.55,<0.001,False
+2-methyl-2-butenal,aldehydes,down,3.55,3.3,3.05,-0.25,-0.25,-0.5,0.5,<0.001,False
+2-butanone,ketones,down,3.7,3.4,3.2,-0.3,-0.2,-0.5,0.5,<0.001,False
+alpha-terpinene,hydrocarbons,up,3.0,3.25,3.5,0.25,0.25,0.5,0.5,<0.001,False
+"2,5-dimethylpyrazine",pyrazines,up,3.25,3.5,3.75,0.25,0.25,0.5,0.5,<0.001,False
+hexanal-D,aldehydes,up,3.6,3.85,4.05,0.25,0.2,0.45,0.45,<0.001,True
+hexanal-M,aldehydes,up,2.6,2.8,3.0,0.2,0.2,0.4,0.4,<0.001,True
+2-heptanol,alcohols,up,2.1,2.3,2.5,0.2,0.2,0.4,0.4,<0.001,False
+butanal-M,aldehydes,up,3.6,3.8,4.0,0.2,0.2,0.4,0.4,<0.001,False
+propanol,alcohols,up,2.0,2.2,2.4,0.2,0.2,0.4,0.4,<0.001,False
+valeraldehyde-D,aldehydes,up,3.3,3.5,3.65,0.2,0.15,0.35,0.35,<0.001,True
+2-heptanone,ketones,ns,3.0,3.05,3.1,0.05,0.05,0.1,0.1,>0.05,False
+octanal,aldehydes,ns,2.8,2.85,2.9,0.05,0.05,0.1,0.1,>0.05,False
+butanol,alcohols,ns,3.2,3.15,3.1,-0.05,-0.05,-0.1,0.1,>0.05,False

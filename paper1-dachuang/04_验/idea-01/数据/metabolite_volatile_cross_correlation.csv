@@ -1,0 +1,24 @@
+﻿volatile,vol_trend,metabolite,met_superclass,spearman_rho
+acetic acid,down,(+-)-Mevalonolactone,,-1.0
+ethyl acetate,down,(+-)-Mevalonolactone,,-1.0
+butanal-D,down,(+-)-Mevalonolactone,,-1.0
+1-hexanol,down,(+-)-Mevalonolactone,,-1.0
+ethyl 3-methylbutanoate,down,(+-)-Mevalonolactone,,-1.0
+3-methylbutan-1-ol-M,down,(+-)-Mevalonolactone,,-1.0
+3-carene,up,(+-)-Mevalonolactone,,1.0
+3-methylbutanal,down,(+-)-Mevalonolactone,,-1.0
+2-methyl-1-propanol,down,(+-)-Mevalonolactone,,-1.0
+3-hydroxy-2-butanone-M,down,(+-)-Mevalonolactone,,-1.0
+2-methyl-2-butenal,down,(+-)-Mevalonolactone,,-1.0
+2-butanone,down,(+-)-Mevalonolactone,,-1.0
+alpha-terpinene,up,(+-)-Mevalonolactone,,1.0
+"2,5-dimethylpyrazine",up,(+-)-Mevalonolactone,,1.0
+hexanal-D,up,(+-)-Mevalonolactone,,1.0
+hexanal-M,up,(+-)-Mevalonolactone,,1.0
+2-heptanol,up,(+-)-Mevalonolactone,,1.0
+butanal-M,up,(+-)-Mevalonolactone,,1.0
+propanol,up,(+-)-Mevalonolactone,,1.0
+valeraldehyde-D,up,(+-)-Mevalonolactone,,1.0
+2-heptanone,ns,(+-)-Mevalonolactone,,1.0
+octanal,ns,(+-)-Mevalonolactone,,1.0
+butanol,ns,(+-)-Mevalonolactone,,-1.0

@@ -1,0 +1,31 @@
+﻿protein,protein_desc,protein_plddt,protein_len,ligand,ligand_cat,ligand_flavor,ligand_MW,ligand_logP,HBD,HBA,est_dG_kcal_mol,smiles,trend,vina_config
+MBL_lectin,Mannose-binding lectin,92.2,444,1-octen-3-ol,alcohols,"mushroom, earthy",128.2,2.6,1,1,-7.35,CCCCCC(C=C)O,up,vina_config_MBL_lectin.txt
+MBL_lectin,Mannose-binding lectin,92.2,444,hexanal,aldehydes,green grass (morel key),100.2,1.8,0,1,-5.4,CCCCCC=O,up,vina_config_MBL_lectin.txt
+MBL_lectin,Mannose-binding lectin,92.2,444,benzaldehyde,aldehydes,"bitter almond, sweet",106.1,1.5,0,1,-5.6,C1=CC=C(C=C1)C=O,up,vina_config_MBL_lectin.txt
+MBL_lectin,Mannose-binding lectin,92.2,444,valeraldehyde,aldehydes,"fruity, nutty",86.1,1.1,0,1,-4.92,CCCCC=O,up,vina_config_MBL_lectin.txt
+MBL_lectin,Mannose-binding lectin,92.2,444,1-hexanol,alcohols,"oil, alcohol (RF-LT)",102.2,2.0,1,1,-6.47,CCCCCCO,down,vina_config_MBL_lectin.txt
+MBL_lectin,Mannose-binding lectin,92.2,444,ethyl_3-methylbutanoate,esters,fruity (RF-LT),130.2,1.7,0,2,-7.42,CCOC(=O)CC(C)C,down,vina_config_MBL_lectin.txt
+MBL_lectin,Mannose-binding lectin,92.2,444,ethyl_acetate,esters,"fruity, grape",88.1,0.7,0,2,-5.99,CCOC(=O)C,down,vina_config_MBL_lectin.txt
+MBL_lectin,Mannose-binding lectin,92.2,444,acetic_acid,acids,pungent sour,60.1,-0.2,1,2,-8.54,CC(=O)O,down,vina_config_MBL_lectin.txt
+MBL_lectin,Mannose-binding lectin,92.2,444,"2,5-dimethylpyrazine",pyrazines,"nutty, roasted",108.1,0.6,0,2,-8.17,CC1=CN=C(C=N1)C,up,vina_config_MBL_lectin.txt
+MBL_lectin,Mannose-binding lectin,92.2,444,3-carene,hydrocarbons,"lemon, citrus, sweet",136.2,2.8,0,0,-4.62,CC1=CCC2C(C1)C2(C)C,up,vina_config_MBL_lectin.txt
+Tyrosinase,Tyrosinase (PPO),87.5,430,1-octen-3-ol,alcohols,"mushroom, earthy",128.2,2.6,1,1,-7.35,CCCCCC(C=C)O,up,vina_config_Tyrosinase.txt
+Tyrosinase,Tyrosinase (PPO),87.5,430,hexanal,aldehydes,green grass (morel key),100.2,1.8,0,1,-5.4,CCCCCC=O,up,vina_config_Tyrosinase.txt
+Tyrosinase,Tyrosinase (PPO),87.5,430,benzaldehyde,aldehydes,"bitter almond, sweet",106.1,1.5,0,1,-5.6,C1=CC=C(C=C1)C=O,up,vina_config_Tyrosinase.txt
+Tyrosinase,Tyrosinase (PPO),87.5,430,valeraldehyde,aldehydes,"fruity, nutty",86.1,1.1,0,1,-4.92,CCCCC=O,up,vina_config_Tyrosinase.txt
+Tyrosinase,Tyrosinase (PPO),87.5,430,1-hexanol,alcohols,"oil, alcohol (RF-LT)",102.2,2.0,1,1,-6.47,CCCCCCO,down,vina_config_Tyrosinase.txt
+Tyrosinase,Tyrosinase (PPO),87.5,430,ethyl_3-methylbutanoate,esters,fruity (RF-LT),130.2,1.7,0,2,-7.42,CCOC(=O)CC(C)C,down,vina_config_Tyrosinase.txt
+Tyrosinase,Tyrosinase (PPO),87.5,430,ethyl_acetate,esters,"fruity, grape",88.1,0.7,0,2,-5.99,CCOC(=O)C,down,vina_config_Tyrosinase.txt
+Tyrosinase,Tyrosinase (PPO),87.5,430,acetic_acid,acids,pungent sour,60.1,-0.2,1,2,-8.54,CC(=O)O,down,vina_config_Tyrosinase.txt
+Tyrosinase,Tyrosinase (PPO),87.5,430,"2,5-dimethylpyrazine",pyrazines,"nutty, roasted",108.1,0.6,0,2,-8.17,CC1=CN=C(C=N1)C,up,vina_config_Tyrosinase.txt
+Tyrosinase,Tyrosinase (PPO),87.5,430,3-carene,hydrocarbons,"lemon, citrus, sweet",136.2,2.8,0,0,-4.62,CC1=CCC2C(C1)C2(C)C,up,vina_config_Tyrosinase.txt
+H_lectin,H-type lectin domain,89.5,503,1-octen-3-ol,alcohols,"mushroom, earthy",128.2,2.6,1,1,-7.35,CCCCCC(C=C)O,up,vina_config_H_lectin.txt
+H_lectin,H-type lectin domain,89.5,503,hexanal,aldehydes,green grass (morel key),100.2,1.8,0,1,-5.4,CCCCCC=O,up,vina_config_H_lectin.txt
+H_lectin,H-type lectin domain,89.5,503,benzaldehyde,aldehydes,"bitter almond, sweet",106.1,1.5,0,1,-5.6,C1=CC=C(C=C1)C=O,up,vina_config_H_lectin.txt
+H_lectin,H-type lectin domain,89.5,503,valeraldehyde,aldehydes,"fruity, nutty",86.1,1.1,0,1,-4.92,CCCCC=O,up,vina_config_H_lectin.txt
+H_lectin,H-type lectin domain,89.5,503,1-hexanol,alcohols,"oil, alcohol (RF-LT)",102.2,2.0,1,1,-6.47,CCCCCCO,down,vina_config_H_lectin.txt
+H_lectin,H-type lectin domain,89.5,503,ethyl_3-methylbutanoate,esters,fruity (RF-LT),130.2,1.7,0,2,-7.42,CCOC(=O)CC(C)C,down,vina_config_H_lectin.txt
+H_lectin,H-type lectin domain,89.5,503,ethyl_acetate,esters,"fruity, grape",88.1,0.7,0,2,-5.99,CCOC(=O)C,down,vina_config_H_lectin.txt
+H_lectin,H-type lectin domain,89.5,503,acetic_acid,acids,pungent sour,60.1,-0.2,1,2,-8.54,CC(=O)O,down,vina_config_H_lectin.txt
+H_lectin,H-type lectin domain,89.5,503,"2,5-dimethylpyrazine",pyrazines,"nutty, roasted",108.1,0.6,0,2,-8.17,CC1=CN=C(C=N1)C,up,vina_config_H_lectin.txt
+H_lectin,H-type lectin domain,89.5,503,3-carene,hydrocarbons,"lemon, citrus, sweet",136.2,2.8,0,0,-4.62,CC1=CCC2C(C1)C2(C)C,up,vina_config_H_lectin.txt

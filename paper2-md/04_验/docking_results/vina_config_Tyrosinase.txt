@@ -1,0 +1,11 @@
+# Tyrosinase (Tyrosinase (PPO))
+receptor = Tyrosinase_prepared.pdbqt
+center_x = 1.9
+center_y = -1.3
+center_z = -2.3
+size_x = 80.2
+size_y = 70.7
+size_z = 103.6
+num_modes = 9
+energy_range = 3
+exhaustiveness = 16

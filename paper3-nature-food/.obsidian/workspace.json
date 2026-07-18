@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "73f7675d6a9d71e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe8a2a5dfc23d646",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86757db49842c372",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "告别迷茫，高效产出：科研论7层攻略与5步实操法.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "告别迷茫，高效产出：科研论7层攻略与5步实操法"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98bfca5ca6ac71df",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba892d966b7d6729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b4d5790e7089e26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "060175c32e5fa44c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "cbab84f36498ec8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51773da3e1c5c836",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0548d6e3521380b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30954a697d03402c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "告别迷茫，高效产出：科研论7层攻略与5步实操法.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "告别迷茫，高效产出：科研论7层攻略与5步实操法 的反向链接列表"
+            }
+          },
+          {
+            "id": "f2532da8edb9dcad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "告别迷茫，高效产出：科研论7层攻略与5步实操法.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "告别迷茫，高效产出：科研论7层攻略与5步实操法 的出链列表"
+            }
+          },
+          {
+            "id": "1c77edb806be20ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c07cb1b3c2e74c22",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "439a4a25e17b48b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "告别迷茫，高效产出：科研论7层攻略与5步实操法.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "告别迷茫，高效产出：科研论7层攻略与5步实操法 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "86757db49842c372",
+  "lastOpenFiles": [
+    "99_归档/废弃idea/README.md",
+    "04_验/验证-总览.md",
+    "03_分/候选idea列表.md",
+    "03_分/分组记录.md",
+    "01_搜/检索式记录.md",
+    "01_搜/关键词演化.md"
+  ]
+}

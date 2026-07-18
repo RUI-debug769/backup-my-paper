@@ -1,0 +1,11 @@
+# MBL_lectin (Mannose-binding lectin)
+receptor = MBL_lectin_prepared.pdbqt
+center_x = 1.2
+center_y = -2.0
+center_z = 0.7
+size_x = 77.9
+size_y = 87.7
+size_z = 83.0
+num_modes = 9
+energy_range = 3
+exhaustiveness = 16

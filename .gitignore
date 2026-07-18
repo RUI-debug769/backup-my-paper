@@ -1,0 +1,14 @@
+# Raw data directories (large files, embedded repos)
+paper1-dachuang/raw/
+paper2-md/raw/
+
+# Obsidian workspace (changes frequently)
+.obsidian/workspace.json
+*.obsidian/workspace.json
+
+# Large exports
+Zotero_Export_All.csv
+
+# OS
+.DS_Store
+Thumbs.db

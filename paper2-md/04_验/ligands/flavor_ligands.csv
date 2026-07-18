@@ -1,0 +1,11 @@
+﻿name,smiles,MW,logP,HBD,HBA,cat,trend,flavor
+1-octen-3-ol,CCCCCC(C=C)O,128.2,2.6,1,1,alcohols,up,"mushroom, earthy"
+hexanal,CCCCCC=O,100.2,1.8,0,1,aldehydes,up,green grass (morel key)
+benzaldehyde,C1=CC=C(C=C1)C=O,106.1,1.5,0,1,aldehydes,up,"bitter almond, sweet"
+valeraldehyde,CCCCC=O,86.1,1.1,0,1,aldehydes,up,"fruity, nutty"
+1-hexanol,CCCCCCO,102.2,2.0,1,1,alcohols,down,"oil, alcohol (RF-LT)"
+ethyl_3-methylbutanoate,CCOC(=O)CC(C)C,130.2,1.7,0,2,esters,down,fruity (RF-LT)
+ethyl_acetate,CCOC(=O)C,88.1,0.7,0,2,esters,down,"fruity, grape"
+acetic_acid,CC(=O)O,60.1,-0.2,1,2,acids,down,pungent sour
+"2,5-dimethylpyrazine",CC1=CN=C(C=N1)C,108.1,0.6,0,2,pyrazines,up,"nutty, roasted"
+3-carene,CC1=CCC2C(C1)C2(C)C,136.2,2.8,0,0,hydrocarbons,up,"lemon, citrus, sweet"
