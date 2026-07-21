@@ -1,2 +1,7 @@
-﻿dataset_n_rows,dataset_n_temps,dataset_n_compounds,spearman_max_abs_rho,spearman_top_feature,rf_bootstrap_r2_mean,rf_bootstrap_r2_std,rf_top_feature,rf_top_importance,xgb_r2,mve_verdict,mve_recommendation
-46,2,23,0.0722,temp_C,-0.1976,0.248,drying_time_min,0.5024,0.0025,NO_GO,信号不足，建议重新审视特征工程或降级方案
+﻿model,r2,rmse,type,r2_ci_95
+Dummy (mean),0.0,0.47940204760870364,baseline,
+ElasticNet,-0.0468,0.4905,linear,"[-0.1789, -0.0459]"
+BayesianRidge,-0.0482,0.4908,bayesian,"[-0.1619, -0.0472]"
+GPR (RBF),-0.0449,0.4901,gp,"[-0.1527, -0.0450]"
+RandomForest,-0.094,0.5014,tree,"[-0.2233, -0.0651]"
+XGBoost,-0.0895,0.5004,tree,"[-0.2217, -0.0606]"

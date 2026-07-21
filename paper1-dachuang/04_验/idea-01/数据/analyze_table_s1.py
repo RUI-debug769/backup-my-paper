@@ -254,12 +254,44 @@ if mve_path.exists():
 
     # 保存增强版数据集
     enriched_path = OUT_DIR / 'mve_enriched_with_metabolites.csv'
-    # 简化版本: 温度 + 挥发物 + Top-50代谢物
-    summary_rows = []
-    for temp_c, lt_key, mt_key, ht_key in [(45, 'LT_45C', 'MT_55C', 'HT_65C')]:
-        pass  # 复杂逻辑省略
 
-    print(f"  增强数据集结构: {raw.shape[0]} 代谢物 × 3 温度")
+    # 构建增强数据: 为每个挥发物观测添加代谢物特征
+    enriched_rows = []
+    for _, vol_row in mve_df.iterrows():
+        temp_key = vol_row['temperature_key']
+        temp_label = 'LT_mean' if temp_key == 'T45' else ('MT_mean' if temp_key == 'T55' else 'HT_mean')
+
+        # Top-10 与温度最相关的代谢物在该温度的丰度
+        top10_ids = corr_df.head(10)['ID'].values
+        met_features = {}
+        for met_id in top10_ids:
+            met_row = raw[raw['ID'] == met_id]
+            if len(met_row) > 0:
+                met_features[f'met_{met_id[:20]}'] = met_row[temp_label].values[0]
+
+        # SuperClass 级别的代谢物汇总
+        for sc_name in raw['SuperClass'].dropna().unique()[:5]:
+            sc_rows = raw[raw['SuperClass'] == sc_name]
+            if len(sc_rows) > 0:
+                met_features[f'superclass_{sc_name}_mean'] = sc_rows[temp_label].mean()
+
+        row = {
+            'compound': vol_row['compound'],
+            'category': vol_row['category'],
+            'temperature_key': temp_key,
+            'temp_C': vol_row['temp_C'],
+            'abundance': vol_row['abundance'],
+            'trend': vol_row['trend'],
+            **met_features,
+        }
+        enriched_rows.append(row)
+
+    enriched_df = pd.DataFrame(enriched_rows)
+    enriched_df.to_csv(enriched_path, index=False, encoding='utf-8-sig')
+    print(f"  [OK] 增强数据集: {enriched_path} ({len(enriched_df)} 行 × {len(enriched_df.columns)} 列)")
+
+else:
+    print(f"  [WARN] 找不到 {mve_path}，跳过增强数据集构建")
 
 # 保存代谢物分析结果
 met_result_path = OUT_DIR / 'liu2024_metabolite_analysis.csv'
