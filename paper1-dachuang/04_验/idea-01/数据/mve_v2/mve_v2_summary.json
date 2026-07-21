@@ -1,0 +1,12 @@
+{
+  "best_reg_r2": 0.9511,
+  "best_model": "BayesianRidge",
+  "overlap_compounds": 0,
+  "trend_consistency": 0.0,
+  "cohens_d_45vs55": 0.111,
+  "compound_coverage": 50,
+  "n_sources": 2,
+  "class_accuracy_vs_baseline": 0,
+  "score": 57,
+  "verdict": "🟠 WEAK GO — 有信号但需加强数据后重评估"
+}

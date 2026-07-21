@@ -1,0 +1,7 @@
+﻿model,r2,rmse,type,r2_ci_low,r2_ci_high
+Dummy (mean),0.0,1.6177567000228152,baseline,,
+ElasticNet,0.9446,0.3807,linear,0.9244,0.9605
+BayesianRidge,0.9511,0.3578,bayesian,0.9252,0.9706
+GPR (RBF),0.9506,0.3595,gp,0.9253,0.9693
+RandomForest,0.9502,0.3608,tree,0.9215,0.9696
+XGBoost,0.9505,0.3598,tree,0.9245,0.9687

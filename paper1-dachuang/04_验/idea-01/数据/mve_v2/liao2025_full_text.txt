@@ -1,0 +1,1931 @@
+=== PAGE 1 ===
+Comparison of different drying processes of Morchella sextelata: Changes in 
+volatile and non-volatile components, color and texture
+Yaxuan Liao a,b,c,1, Mengdi Xin a,1, Hao Dong d, Yuxing Liu a,b,c, Lingling Li a, Xinyong Guo e,  
+Shaobo Cheng a,b,c,*, Guogang Chen a,b,c,*
+a College of Food Science and Technology, Shihezi University, Shihezi 832000, China
+b Key Laboratory of Characteristics Agricultural Product Processing and Quality Control (Co-construction by Ministry and Province) Ministry of Agriculture and Rural 
+Affairs, School of Food Science and Technology, Shihezi University, Shihezi, Xinjiang 832000, China
+c Key Laboratory for Food Nutrition and Safety Control of Xinjiang Production and Construction Corps，School of Food Science and Technology, Shihezi University, 
+Shihezi, Xinjiang 832000, China
+d Shihezi Testing Institute of Quality and Metrology, Shihezi 832000, PR China
+e College of Life Science, Shihezi University, Shihezi 832000, China
+A R T I C L E  I N F O
+Keywords:
+Drying technique
+Aroma
+Texture
+Taste substance
+Morchella sextelata
+Dried mushroom
+A B S T R A C T
+In this study, the effects of hot-air drying (HAD), hot-air combined microwave vacuum drying (HAD-MVD), 
+vacuum freeze drying (VFD), and natural drying (ND) on the color, textural properties, microstructure, non- 
+volatile substances, and volatile flavor compounds of the Morchella sextelata (M. sextelata) mushroom were 
+investigated. The results showed that VFD best maintains the color, texture, and flavor of M. sextelata, while 
+HAD-MVD yields dehydrated M. sextelata having a color and dense cellular microstructure similar to that ach­
+ieved with VFD but in less time. In addition, the equivalent umami concentration (1293.20 g MSG/100 g) and 
+total aroma compound content (2,533,403 μg/kg) for HAD-MVD were significantly higher than that for VFD, and 
+the content of non-volatile substances such as soluble sugars, 5′-nucleotides, and total free amino acids were also 
+high. Therefore, HAD-MVD represents an economic and more environmentally benign solution for the com­
+mercial processing of M. sextelata.
+1. Introduction
+Morchella (Morchella sextelata (L). Pers) is a richly nutritious rare 
+edible mushroom with a unique honeycomb pileus. However, it has a 
+high water content and an active metabolism, making it susceptible to 
+post-harvest environmental stress that can cause pileus deformation, 
+softening, and browning. Accordingly, its natural shelf-life is less than 
+one week (Li et al., 2023; Zhang, Li, Zhao, et al., 2023), necessitating the 
+use of drying technology to extend its shelf-life while retaining its flavor.
+Dehydration is commonly employed to maintain food quality and 
+shelf-life (Liao et al., 2024; Liu et al., 2022), with many methods, such as 
+natural drying (ND), hot-air drying (HAD) (Chen et al., 2023), micro­
+wave vacuum drying (MVD) (Li et al., 2024), vacuum freeze drying 
+(VFD) (Sun et al., 2023), and various novel combined drying technolo­
+gies (Hu, Bi, Jin, Qiu, & Sman, 2021; Zhao et al., 2020) being applied to 
+edible mushrooms. ND is the simplest and most traditional way of 
+dehydrating edible mushrooms, and it remains the most widely used 
+technique for small-scale cultivation, while HAD is the most commonly 
+applied at the industrial scale. VFD is often used in the production of 
+high-end dried Morchella sextelata (M. sextelata products).
+With the ongoing improvement of health awareness around the 
+world, consumer demand for high-quality, healthy, and nutritious food 
+is growing. However, the dehydrated M. sextelata produced using ND 
+and HAD is increasingly unable to meet current appearance and flavor 
+standards. Therefore, producing high-quality dried M. sextelata at a 
+lower cost is of paramount concern for M. sextelata processors.
+Increasing research attention is being dedicated to the use of com­
+bined drying processes for the production of dehydrated M. sextelata. 
+Hot-air combined microwave vacuum drying (HAD-MVD) is a new type 
+of combined drying method that involves a multi-stage drying process 
+whereby HAD is used first to remove the free water on the surface of the 
+material quickly and thus reduce drying time. Subsequently, MVD is 
+* Corresponding authors at: College of Food Science and Technology, Shihezi University, Shihezi 832000, China.
+E-mail addresses: chengshaoboshzu@163.com (S. Cheng), cgg611@163.com (G. Chen). 
+1 These authors contributed equally to this work.
+Contents lists available at ScienceDirect
+Food Chemistry: X
+journal homepage: www.sciencedirect.com/journal/food-chemistry-x
+https://doi.org/10.1016/j.fochx.2025.102220
+Received 18 October 2024; Received in revised form 12 January 2025; Accepted 23 January 2025  
+Food Chemistry: X 25 (2025) 102220 
+Available online 24 January 2025 
+2590-1575/© 2025 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by- 
+nc-nd/4.0/ ). 
+
+=== PAGE 2 ===
+used to further reduce the moisture content of the material by its unique 
+heat and mass-transfer effects. Specifically, microwaves penetrate deep 
+into a material, so microwave heating does not rely on the heat con­
+duction of the material itself, resulting in rapid internal heating and the 
+formation of a large amount of water vapor. This high water-vapor- 
+pressure gradient promotes the rapid movement of liquid and gaseous 
+water from inside a sample to its surface. Accordingly, this combined 
+drying method not only significantly increases drying rates, it also 
+effectively reduces energy consumption and production costs (Pu & Sun, 
+2017; Xu et al., 2020).
+The drying process can also affect the unique flavor of edible 
+mushrooms (Wen et al., 2022), which is due to the interaction of volatile 
+organic compounds (VOCs) and non-volatile organic compounds (Aisala 
+et al., 2020). VOCs include alcohols, aldehydes, ketones, esters, and 
+sulfides, while non-volatile substances include soluble sugars, organic 
+acids, free amino acids, and 5′-nucleotides (Hu, Feng, Huang, Ibrahim, & 
+Liu, 2020). Many studies have shown that the flavor composition of 
+edible mushrooms is significantly altered by their processing. For 
+example, Hou et al. (2021) adopted headspace-gas chromatic-ion 
+migration spectrometry to establish the volatile fingerprints of Lentinus 
+edodes after HAD, VFD, and VFD-HAD treatments, revealing that VFD 
+and VFD-HAD better retain volatile flavor substances, while HAD is 
+subject to a large loss of volatile substances. Li et al. (2023) explored the 
+effects of three drying methods (VFD, HAD, and ND) on the volatile 
+components of M. sextelata. The results showed that alcoholic, hetero­
+cyclic, and ketonic substances are greatly affected by drying method, 
+with VFD being conducive to preserving flavor and HAD promoting the 
+formation of baking flavor substances. Hu et al. (2020) investigated the 
+effects of ND, HAD, and VFD on the non-volatile components of Stro­
+pharia rugosoannulata, revealing that soluble sugars, organic acids, free 
+amino acids, and 5′-nucleotide contents in VFD-treated mushroom were 
+the highest, while HAD resulted in a higher equivalent umami concen­
+tration (EUC) value.
+Currently, changes in the flavor profiles of shiitake mushrooms (Hou 
+et al., 2021), Flammulina velutipes (Sun et al., 2023), and Pleurotus eryngii 
+(Li et al., 2015) after different drying treatments have been studied. 
+Nevertheless, the effect of different drying techniques on the flavor of 
+M. sextelata remains unclear. Therefore, the purpose of this study was to 
+investigate the effects of HAD, VFD, HAD-MVD and ND on the volatile 
+and non-volatile compounds of M. sextelata by using headspace–solid- 
+phase microextraction (HS-SPME), gas chromatography–mass spec­
+trometry (GC–MS), high-performance liquid chromatography (HPLC), 
+and ion chromatography (IC). To our best knowledge, this study is the 
+first to comprehensively analyze the volatile compounds and non- 
+volatile compounds of M. sextelata dried by different drying methods, 
+and to study the correlation between non-volatile compounds and vol­
+atile compounds in M. sextelata during drying. The results of this study 
+will provide theoretical basis for the production of dried M. sextelata 
+products with unique flavor and delicious taste.
+2. Materials and methods
+2.1. Materials
+Fresh M. sextelata mushrooms were harvested from Bole City, Xin­
+jiang Uygur Autonomous Region in April 2023 and transported to the 
+Food College of Shihezi University on the day of harvest, where they 
+were stored at 3–5 ◦C until drying.
+Glutaric dialdehyde, Ethanol absolute, Methanol (HPLC grade) and 
+acetonitrile (HPLC grade) were purchased from Tianjin Xinbote Chem­
+ical Co., Ltd. (Tianjin, China). 4-Methyl-2-pentanol (HPLC grade), 3- 
+nitrophenylhydrazine (HPLC grade), Trichloromethane (HPLC grade) 
+and formic acid (HPLC grade) was purchased from Sigma-Aldrich Co. 
+(St. Louis, U.S.A). All other chemicals were of analytical grade unless 
+specified.
+2.2. Sample treatment
+The fresh M. sextelata were spread evenly and dried by one of the four 
+different methods until the moisture content of the sample was below 12 
+%.
+2.3. Drying conditions and equipment
+ND: 200 g fresh M. sextelata was evenly placed in a cool and venti­
+lated place with a temperature of 25 ± 1 ◦C and a relative humidity of 52 
+± 2 %. The drying time was ~60 h.
+HAD: 200 g fresh M. sextelata were spread evenly on a tray and put in 
+an electric blast drying oven (BGZ246, Shanghai Boxun Medical Bio­
+logical Instrument Corp., Shanghai, China) at 55 ◦C for ~6 h.
+VFD: 200 g fresh M. sextelata was evenly spread on a tray, cooled to 
+−20 ◦C for 8 h, then placed in a vacuum freezing drying oven (ScientZ- 
+10nd, Scientz Co., Ningbo, China) at −30 ◦C for 2 h. The vacuum 
+pressure was 10 Pa and the cold trap temperature was −25 ◦C.
+HAD-MVD: 200 g of fresh M. sextelata was evenly spread on a tray 
+and placed in an electric blast drying oven at 55 ◦C until the moisture 
+content of the sample dropped to 30 % (~195 min). Then, the material 
+was evenly placed on a ceramic disk and immediately put into a mi­
+crowave vacuum drying oven (RWBZ-08S, Nanjing Saenuri Drying 
+Equipment Co., Ltd., Nanjing, China) at 55 ◦C with a power of 475 W for 
+10 min. The pressure was −0.08-0.09 MPa.
+2.4. Quality determination
+2.4.1. Surface color
+A colorimeter (YS3060, Shenzhen Sanensi Technology Co., Ltd., 
+Shenzhen, China) was used to determine the color changes of the pileus 
+and stipes of the M. sextelata (Liao, Liu, et al., 2024). ΔE represents color 
+difference and is calculated using the following Eq.1: 
+ΔE =
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+(
+L* −L0)2 + (a* −a0)2 +
+(
+b* −b0)2
+√
+(1) 
+where L*, a*, and b* are the brightness, red-green value, and blue- 
+yellow values of M. sextelata after drying; and L0, a0, and b0 are the 
+brightness, red-green, and blue-yellow values of M. sextelata before 
+drying.
+2.4.2. Texture characteristics
+The texture characteristics were measured using a texture analyzer 
+(Surface Measurement Systems Ltd., UK) (Liu et al., 2021) equipped 
+with a round 36-mm-diameter SMS P/75R probe. The compression and 
+upward velocity were both 5 mm/s, the compression interval was 5 s, 
+the sample deformation was 50 %, and the hardness (g), brittleness (f), 
+elasticity (mm), and chewability (g) were measured. Each test was 
+performed three times.
+2.4.3. Microstructure analysis
+According to the method of and the internal microstructure of the 
+dried samples at 50× and 300× was observed using a scanning electron 
+microscope (S-3400 N, Hitachi Ltd., Japan) following a previously 
+published method (Liao, Liu, et al., 2024).
+2.4.4. Soluble sugars
+Following a previously published method (Hou et al., 2021), a 100- 
+mg sample was weighed into a 2.0-mL centrifuge tube and extracted 
+with 700 μL of 80 % ethanol for 2 h. The supernatant was centrifuged at 
+10,000 ×g for 3 min and then aspirated for analysis. A Thermo ICS5000 
+ion chromatography system (ICS5000, Thermo Fisher Scientific, USA) 
+fitted with a CarboPac™ PA1 (250 × 4.0 mm) column was used to 
+determine the monosaccharide fractions. The mobile phases were 
+deionized water; the injection volume was 10 μL, the flow rate was 1.0 
+mL/min, and the column temperature was 30 ◦C. The results are 
+Y. Liao et al.                                                                                                                                                                                                                                     
+Food Chemistry: X 25 (2025) 102220 
+2 
+
+=== PAGE 3 ===
+expressed in mg/g dry weight (DW).
+2.4.5. Organic acids
+Organic acids were determined according to a previously published 
+method (Liao, Liu, et al., 2024). Briefly, 0.1–0.5 g of M. sextelata was 
+extracted with 300 μL methanol/chloroform (7:3) on ice for 30 min. 
+Then, 200 μL of H2O was added, the mixture was centrifuged for 10 min, 
+and the supernatant was taken for analysis. This H2O extraction step was 
+then repeated. Ultra-performance liquid chromatography (UPLC; 
+Vanquish, Thermo, USA) and high-resolution mass spectrometry (Q 
+Exactive, Thermo, USA) were employed with the aid of an autosampler 
+at 4 ◦C. The chromatographic column used was a Waters BEH C18 (50 ×
+2.1 mm, 1.8 μm). The mobile phase A was acetonitrile/ water (84:16, v/ 
+v); mobile phase B was 10 mM ammonium formate; the flow rate was 
+0.35 mL/min; the column temperature was 40 ◦C; and the injection 
+volume was 2 μL. The results are expressed as mg/g DW.
+2.4.6. Free amino acids
+A 1 g sample was extracted with 50 mL hydrochloric acid (0.1 mol/L) 
+for 45 min at 25 ◦C followed by centrifugation at 8000 ×g for 10 min. 
+The supernatant was filtered, and analysis was performed using Bio­
+chrom Ltd. (UK). The results are expressed as mg/g DW.
+2.4.7. 5’-nucleotides
+For the determination of 5′-nucleotides, a slightly modified previous 
+method (Wen et al., 2022) was used. Briefly, 0.5 g of sample was sub­
+jected to ultrasonic extraction in 25 mL water for 40 min then shaken in 
+a 100 ◦C water bath for 1 h. Then, the mixture was cooled to room 
+temperature (25 ◦C), centrifuged at 8400 ×g for 10 min, and the su­
+pernatant was filtered. A Shimadzu LC-20 CE column equipped with an 
+Ultimate AQ-C18 column (4.6 × 250 mm, 5 μm) was used for 5′-nucle­
+otide analysis. The mobile phase was a 1:1 solution of KH2PO4 and 
+K2HPO4 (pH 6.00) at a flow rate of 1.0 mL/min, and the samples were 
+detected at 254 nm. The results are expressed in mg/g DW.
+2.4.8. Aroma-compound extraction and analysis
+HS-SPME-GC–MS was used to detect volatile components according 
+to a previously published method (Liao et al., 2024). First, 0.1 g of the 
+sample was transferred to a 15 mL extraction bottle containing 5 mL 
+ultrapure water and 10 μL of a 4-methyl-2-amyl alcohol internal stan­
+dard solution. The sample bottle was placed on a solid-phase micro­
+extraction device at 55 ◦C and preheated for 15 min. The SPME extracted 
+fiber head was aged at 250 ◦C at the GC–MS inlet until there was no 
+impurity peak, and extraction was performed for 30 min. Then, the 
+samples were analyzed at 250 ◦C for 3 min.
+An Agilent GC–MS system (7890 A-5975C, Agilent Technologies Inc., 
+USA) fitted with a DB-WAX (30.0 mm × 250 μm, 0.25 μm) column was 
+used for qualitative and quantitative analysis. The initial temperature 
+was maintained at 50 ◦C for 1 min, increased to 120 ◦C at 5 ◦C/min 
+where it was held for 2 min than increased to 240 ◦C at 10 ◦C/min and 
+held for for 5 min. The gasification chamber temperature was 220 ◦C, 
+the transmission line temperature was 240 ◦C, the carrier gas was He at a 
+flow rate of 1.0 mL/min. No diversion was used. Mass spectroscopy was 
+conducted in SCAN mode from 35 to 500 u with an electron ionization 
+energy of 70 eV, an ion source temperature of 230 ◦C, and a quadrupole 
+temperature of 150 ◦C.
+2.4.9. Electronic-nose measurement
+A PEN3 electronic nose (Airsense Analytics GmbH, Schwerin, Ger­
+many) was used following a previously published method (Li, Zhou, 
+et al., 2024). A 10 g sample was weighed into a 40 mL headspace bottle 
+fitted with a Teflon cap. After 30 min at 37 ◦C, the headspace was 
+injected into the device at a speed of 400 mL/min. The detection time 
+was 80 s. The maximum output data for each sensor were used for 
+further analysis.
+2.4.10. Equivalent umami concentration (EUC)
+EUC values, which are expressed as g MSG/100 g on a scale con­
+structed using the umami intensity of different 5′-nucleotide and amino 
+acid mixtures, are used to quantify the influence of different compounds 
+on umami taste. In the current study, EUC values were calculated using 
+the method described by (Yamaguchi, Yoshikawa, Ikeda, & Ninomiya, 
+1971).
+2.5. Statistical analysis
+Origin 2022 (OriginLab, USA) software was used to organize and plot 
+the data, and SPSS 22.0 (SPSS, Inc., Chicago, IL, USA) was used to 
+analyze the difference significance of the data. One-way analysis of 
+variance (ANOVA) was applied, followed by Duncan’s multi-range test. 
+p < 0.05 was taken to represent significant difference. All experiments 
+were performed three times, and the data are presented as mean ±
+standard deviation. Peak areas of identified non-VOCs and VOCs were 
+introduced into a free online platform named Omicshare (https://cloud. 
+metware.cn) for multivariate analyses, including venn diagram, flavor 
+distribution profile, circos plot, heat map and network correlation 
+analysis.
+3. Results and discussion
+3.1. Changes in color and texture
+3.1.1. Surface color
+Color is an important index for judging the sensory properties of 
+edible mushrooms, significantly affecting consumer perception and 
+purchasing intent (Wang et al., 2023). Table 1 shows the L, a, b, and ΔE 
+values for the M. sextelata pileus and stipes after different drying treat­
+ments. Generally, high L-values and low ΔE are desirable standards 
+when measuring the color quality of edible mushroom dried products 
+(Wang et al., 2023). Compared with those of the fresh samples (FS), the 
+color indexes for the treated samples are significantly different (p <
+0.05). The L, a, and b values of the pileus and stipes of the fresh 
+M. sextelata are 23.2, 1.41, and 8.64 and 82.72, 1.31, and 18.31, 
+respectively. The corresponding values for VFD-treated M. sextelata are 
+similar to those for the FS. The ND M. sextelata show the most apparent 
+difference, with the highest ΔE value. In general, the effect of the four 
+Table 1 
+Effects of different drying methods on the color change of M. sextelata.
+Treatments
+L
+a
+b
+ΔE
+pileus
+FS
+23.20 ±
+0.13a
+1.41 ±
+0.57c
+8.64 ± 2.21b
+/
+HAD
+18.04 ±
+1.12c
+2.21 ±
+0.76b
+10.73 ±
+1.15a
+5.33 ±
+0.13b
+HAD- 
+MVD
+20.61 ±
+0.08b
+2.37 ±
+1.13b
+6.23 ± 0.97c
+3.67 ±
+0.17bc
+VFD
+24.02 ±
+0.52a
+0.19 ±
+0.02d
+7.98 ±
+0.73bc
+1.61 ±
+0.06c
+ND
+20.75 ±
+2.03b
+3.36 ±
+0.59a
+0.07 ± 0.03d
+9.13 ±
+0.36a
+stipes
+FS
+82.72 ±
+0.67a
+1.31 ±
+1.51c
+18.31 ±
+0.64c
+/
+HAD
+68.44 ±
+3.22b
+2.29 ±
+0.43b
+20.28 ±
+2.37bc
+14.45 ±
+0.77b
+HAD- 
+MVD
+70.23 ±
+1.57b
+2.95 ±
+0.35b
+22.16 ±
+0.78b
+13.18 ±
+1.31b
+VFD
+88.04 ±
+3.78a
+1.73 ±
+0.03c
+20.42 ±
+0.08bc
+5.74 ±
+0.86c
+ND
+58.16 ±
+0.16c
+9.27 ±
+1.07a
+27.74 ±
+0.29a
+27.49 ±
+2.12a
+Note: The different representations of small letters in the same index are 
+significantly different (p < 0.05). FS, fresh; HAD, hot air dried; HAD-MVD, hot- 
+air combined with microwave vacuum drying; VFD, vacuum freeze drying; ND, 
+natural drying.
+Y. Liao et al.                                                                                                                                                                                                                                     
+Food Chemistry: X 25 (2025) 102220 
+3 
+
+=== PAGE 4 ===
+drying methods on ΔE decreases in the order ND > HAD > HAD-MVD >
+VFD.
+For both HAD and HAD-MVD, heating may lead to non-enzymatic 
+browning and proteins undergoing the Maillard reaction (Xu et al., 
+2020), resulting in differences in color indicators. (Tian, Zhao, Huang, 
+Zeng, & Zheng, 2016) reported less color degradation in HAD-MVD 
+mushroom products relative to HAD shiitake mushrooms. Bai et al. 
+(2023) attributed this discoloration phenomenon to the fact that 
+employing HAD-MVD can shorten drying time by increasing the drying 
+rate, avoiding the browning caused by long-term heating. For the non- 
+thermal drying method VFD, the overall color damage is small and the 
+color difference for the pileus and stipes is only 1.61 and 5.74, indicating 
+that a low drying temperature and the low-oxygen environment formed 
+by vacuum retains the original color of M. sextelata to the maximum 
+extent (Shen, He, Ding, & Sun, 2023).
+3.1.2. Texture characteristics
+The textural characteristics of dehydrated products directly affect 
+the consumer’s eating experience (Liu et al., 2021). The effects of 
+different drying methods on the hardness, chewiness, and springiness of 
+M. sextelata are shown in Table 2. ND shows the lowest hardness and 
+chewiness. The product is too soft and has lost most of its original texture 
+characteristics. The chewiness of M. sextelata following FD treatment is 
+highest, followed by that for HAD. It is lowest for HAD-MVD. The 
+hardnesses of M. sextelata following the two thermal drying treatments 
+HAD and HAD-MVD) are high at 2584.6 and 3567.5 g, respectively, 
+while that for VFD-treated M. sextelata is only 1659.4 g. Wang, Jiang, 
+et al. (2023) found that VFD-treated Lentinus edodes had lower hardness 
+and chewiness when studying the influence of drying methods on the 
+flavor substances of Flammulina velutipes.
+These differences may be caused by the different moisture-transfer 
+mechanisms of the three drying methods. For HAD and HAD-MVD, the 
+diffusion of moisture proceeds from the inside to the surface where the 
+sample solutes gradually concentrate. The subsequent intense heat 
+treatment destroys the internal springiness of the M. sextelata, creating a 
+hard surface (Xu et al., 2020). However, during the VFD process, ice 
+crystals are formed inside the sample, leaving porous channels when 
+sublimation occurs, resulting in a more resilient dry product (Zhou et al., 
+2021).
+3.1.3. Microstructure
+The scanning electron microscopy images of the outer surface of the 
+pileus are shown in Fig. 1, where Fig. 1A1–E1 show a fresh sample and 
+those subjected to different drying methods. Figure 1A2 (50×) and A3 
+(300×) show the microstructure of the M. sextelata FS. The villi on the 
+surface of the fresh M. sextelata are three-dimensional and evenly 
+distributed, the cell-wall structure is complete, and the overall 
+morphology is smooth and dense. Under 50× magnification, obvious 
+cracks and indentations are observed in the fruiting body of M. sextelata 
+treated with HAD (Fig. 1B1 and B2). Villi collapse and atrophy of the 
+fruiting body are observed at 300×, and the cell-wall and fiber structure 
+are seriously damaged. Due to the long-term high-temperature state, the 
+surface formed a hard shell due to the rapid loss of water, and the 
+accumulation of water vapor and energy in the internal tissues was 
+excessive, resulting in the damage of the cell wall support function, the 
+contraction of water exchange channels, and a wide range of internal 
+collapse (Chen, Achkar, Liu, & Bennacer, 2021).
+As shown in Fig. 1C1 and C2, the surface of the fruiting body of the 
+sample obtained by HAD-MVD treatment is relatively complete. 
+Compared with the HAD-treatment group, surface cracking is signifi­
+cantly reduced, the cell structure is dense, and most of the villi have 
+maintained morphology. The spatial morphology of the VFD samples 
+(Fig. 1D1 and D2) is stereoscopic, with good cell integrity and less 
+compressed cell structure. The cell structure for VFD samples is closest to 
+that for FS. This is consistent with the findings reported in Sun et al. 
+(2023) and Wang, Jiang, et al. (2023), who showed that VFD treatment 
+results in better microscopic spatial structure and integrity. According to 
+Fig. 1E1 and E2, ND causes serious damage, cracks, and depressions, and 
+the spatial structure is collapsed. This is due to the ND treatment time 
+being too long, which leads to tissue shrinkage. At the same time, the 
+Table 2 
+Effects of different drying methods on the texture characteristic of M. sextelata.
+Indicators
+FS
+HAD
+HAD- 
+MVD
+VFD
+ND
+Hardness/g
+1483.7 ±
+34.51c
+2584.6 ±
+248.92b
+3567.5 ±
+197.83a
+1659.4 ±
+96.47c
+1231.5 ±
+84.77d
+Chewiness/g
+716.5 ±
+41.37bc
+837.1 ±
+127.42b
+1369.8 ±
+79.73a
+744.8 ±
+52.30bc
+667.6 ±
+60.83c
+Springiness/ 
+mm
+0.917 ±
+0.06a
+0.779 ±
+0.02c
+0.801 ±
+0.10bc
+0.885 ±
+0.13a
+0.834 ±
+0.22b
+Note: The different representations of small letters in the same index are 
+significantly different (p < 0.05). FS, fresh; HAD, hot air dried; HAD-MVD, hot- 
+air combined with microwave vacuum drying; VFD, vacuum freeze drying; ND, 
+natural drying.
+Fig. 1. Apparent structure and SEM images of the fresh sample (FS) (A1) before 
+drying and the M. sextelata of different drying methods. B1: hot air drying 
+(HAD); C1: hot-air combined with microwave vacuum drying (HAD-MVD); D1: 
+vacuum freeze drying (VFD); E1: natural drying (ND); SEM 50× image (A2, B2, 
+C2, D2, E2); SEM 300× image (A3, B3, C3, D3, E3); SEM: scanning elec­
+tron microscope.
+Y. Liao et al.                                                                                                                                                                                                                                     
+Food Chemistry: X 25 (2025) 102220 
+4 
+
+=== PAGE 5 ===
+drying process involves low temperature and high humidity (tempera­
+ture 25 ± 1 ◦C, relative humidity 52 ± 2 %), so the fruiting body is 
+vulnerable to external biological stress and erosion, resulting in surface 
+loss. In short, HAD and ND treatments have a significant effect on tissue 
+structure, while HAD-MVD and VFD treatments had the best effect on 
+maintaining the microstructure of M. sextelata.
+3.2. Changes in taste substances
+3.2.1. Soluble sugars
+Soluble sugars are important species for the quality and flavor of 
+edible mushrooms (Hu et al., 2020). In the present study, the total sol­
+uble sugar contents of the M. sextelata samples are increased for all 
+groups except ND, with the highest being 350.00 mg/g DW in the VFD- 
+treated group, followed by HAD-MVD (338.39 mg/g DW), HAD (229.14 
+mg/g DW), and ND (202.59 mg/g DW) (p < 0.05). The most abundant 
+soluble sugars in edible mushrooms are mannose, glucose, arabinose, 
+and trehalose (Zhang et al., 2023). Arabinose was reported to be the 
+major soluble sugar in Stropharia rugosoannulata (Hu et al., 2020) and 
+mannose is the major soluble sugar in dried shiitake mushrooms (Liu 
+et al., 2022). However, the highest-content soluble sugar in M. sextelata 
+is trehalose (Table 3), which is a non-reducing disaccharide in which a 
+α,α-1,1-glycosidic connects two glucose units. Trehalose has attracted 
+much attention from researchers because of its ability to maintain cell 
+homeostasis and alleviate cell damage (Elbein, 2003). In this study, 
+trehalose accounted for 88 %–98 % of the total soluble sugars in 
+different treatment groups. Interestingly, in ND-treated M. sextelata, the 
+trehalose content is decreased significantly while the glucose content is 
+increased significantly (p < 0.05), which may be due to the activity of 
+trehalase – the enzyme that promotes trehalose decomposition into 
+glucose – being promoted under ND conditions (Elbein, 2003).
+3.2.2. Organic acids
+Organic acids produce sour and astringent flavors and play a crucial 
+role in mushroom flavor formation (Liu, Bau, et al., 2022). The organic 
+acid contents for fresh and dried M. sextelata are shown in Table 3. 
+Compared with FS, the organic acid contents of dried M. sextelata are 
+significantly increased (p < 0.05) with the degree of increase following 
+the trend HAD > HAD-MVD > VFD > ND. The VFD-treated samples have 
+a low total organic acid content, indicating that they are less acidic and 
+astringent. However, the total organic acid contents for both the HAD 
+and HAD-MVD groups are significantly increased, enhancing the sour 
+and astringent taste of M. sextelata to a certain extent as well as its 
+overall flavor (organic acid and soluble sugar play a synergistic role to 
+enhance mushroom flavor) (Hu et al., 2020).
+Malic acid, citric acid, and fumaric acid are the main organic acids in 
+M. sextelata, accounting for 72 %–81 % of the total organic acid content, 
+among which malic acid (9.46–17.49 mg/g DW) is highest, accounting 
+for more than 34 % of the total content. This is followed by citric acid 
+(7.11–9.05 mg/g DW) and fumaric acid (3.44–6.99 mg/g DW). The 
+contents of these three organic acids in the M. sextelata treated with HAD 
+and HAD-MVD are significantly higher than that in the VFD- and ND- 
+treatment groups, which might be because the increase in temperature 
+for these methods increases the activities of pyruvate kinase and pyru­
+vate dehydrogenase, which are related to respiratory metabolism in the 
+samples (Wen et al., 2022), and the accumulation of tricarboxylic acid 
+cycle metabolizing intermediates (such as citric acid, fumaric acid, and 
+succinic acid) during drying. Similar results were reported by Liu, Bau, 
+et al. (2022), who found that heat treatment induces an increase in malic 
+acid, citric acid, and succinic acid contents in shiitake mushrooms. 
+Compared with HAD, the acidity and astringency of M. sextelata treated 
+with HAD-MVD are lower, which is mainly attributed to the fact that 
+HAD-MVD treatment effectively shortening the duration of hot air 
+drying, thus reducing the accumulation of organic acids.
+Table 3 
+Effects of different drying methods on non-volatile flavor compounds of 
+M. sextelata.
+Indicators
+FS
+HAD
+HAD-MVD
+VFD
+ND
+Soluble sugars 
+(mg/g)
+Trehalose
+345.99 
+± 21.6a
+223.44 
+± 17.6b
+330.55 ±
+20.7a
+340.79 ±
+22.4a
+178.67 
+± 15.3c
+Glucose
+5.25 ±
+0.65b
+0.74 ±
+0.12d
+0.87 ±
+0.11d
+3.35 ±
+0.61c
+12.90 ±
+1.24a
+Mannose
+0.18 ±
+0.05b
+0.10 ±
+0.07c
+0.16 ±
+0.05b
+0.15 ±
+0.02b
+0.41 ±
+0.02a
+Fructose
+2.71 ±
+0.37c
+4.58 ±
+0.42b
+4.27 ±
+0.55b
+4.97 ±
+0.63a
+1.90 ±
+0.17d
+Sucrose
+4.97 ±
+0.35c
+4.27 ±
+0.67c
+6.20 ±
+0.72b
+4.58 ±
+0.34c
+8.71 ±
+0.68a
+Total
+359.10 
+± 26.45a
+233.13 
+± 19.77b
+342.05 ±
+22.52a
+353.84 ±
+24.85a
+202.59 
+± 21.74b
+Organic acids 
+(mg/g)
+Lactic acid
+2.44 ±
+0.12a
+2.09 ±
+0.15b
+1.67 ±
+0.07c
+1.11 ±
+0.06d
+2.81 ±
+0.12a
+Malic acid
+1.53 ±
+0.05e
+17.49 ±
+0.44a
+15.24 ±
+0.42b
+14.92 ±
+0.39c
+9.46 ±
+0.15d
+Succinic acid
+0.68 ±
+0.02d
+1.6 ±
+0.07b
+1.78 ±
+0.07a
+0.55 ±
+0.02d
+1.43 ±
+0.05c
+Fumaric acid
+0.18 ±
+0.02e
+6.99 ±
+0.07a
+5.77 ±
+0.07b
+4.64 ±
+46.57c
+3.44 ±
+0.04d
+Citric acid
+1.3 ±
+0.02d
+9.05 ±
+0.21a
+8.08 ±
+0.19b
+7.11 ±
+0.18c
+7.29 ±
+0.19c
+Total
+6.13 ±
+0.12e
+37.22 ±
+0.42a
+32.54 ±
+0.39b
+28.33 ±
+0.34c
+24.43 ±
+0.16d
+Free amino 
+acids (mg/g)
+Aspartic acid
+1.29 ±
+0.34d
+3.82 ±
+0.59c
+4.07 ±
+0.55b
+5.25 ±
+0.63a
+3.02 ±
+0.49c
+Glutamic acid
+3.90 ±
+0.38d
+8.58 ±
+0.81b
+9.19 ±
+0.95a
+9.91 ±
+0.73a
+7.74 ±
+0.65c
+Umami amino 
+acid
+5.19 ±
+1.14c
+12.40 ±
+1.62b
+13.26 ±
+1.89a
+15.16 ±
+1.95a
+10.76 ±
+1.26b
+Threonine
+3.77 ±
+0.66a
+2.94 ±
+0.45b
+3.13 ±
+0.39a
+3.20 ±
+0.56a
+3.14 ±
+0.48a
+Serine
+9.50 ±
+1.15a
+6.86 ±
+0.88c
+6.48 ±
+0.72c
+7.58 ±
+0.85b
+7.09 ±
+0.73b
+Glycine
+1.58 ±
+0.47c
+1.73 ±
+0.58b
+1.68 ±
+0.48b
+2.02 ±
+0.75a
+1.96 ±
+0.62a
+Alanine
+5.93 ±
+1.85a
+4.25 ±
+1.36b
+4.07 ±
+1.14c
+4.87 ±
+1.75b
+4.31 ±
+1.52b
+Proline
+2.70 ±
+0.84a
+1.82 ±
+0.65c
+1.96 ±
+0.71c
+2.28 ±
+0.75b
+2.42 ±
+0.87a
+Sweet amino 
+acid
+23.48 ±
+3.64a
+17.60 ±
+2.42c
+17.32 ±
+2.68c
+19.95 ±
+3.38b
+18.93 ±
+2.87b
+Valine
+4.27 ±
+0.47a
+3.02 ±
+0.21b
+3.23 ±
+0.38b
+3.14 ±
+0.34b
+3.22 ±
+0.36b
+Methionine
+2.06 ±
+0.24a
+1.01 ±
+0.09b
+1.15 ±
+0.18b
+1.12 ±
+0.08b
+1.04 ±
+0.09b
+Isoleucine
+4.70 ±
+0.48a
+2.25 ±
+0.25b
+2.76 ±
+0.38b
+2.26 ±
+0.21b
+2.67 ±
+0.36b
+Leucine
+5.24 ±
+0.74a
+2.50 ±
+0.28c
+3.20 ±
+0.34b
+2.62 ±
+0.23c
+3.08 ±
+0.37b
+Phenylalanine
+3.27 ±
+0.37a
+1.80 ±
+0.12c
+2.16 ±
+0.26b
+1.85 ±
+0.18c
+2.04 ±
+0.25b
+Histidine
+0.79 ±
+0.03c
+1.40 ±
+0.17b
+0.89 ±
+0.05c
+1.63 ±
+0.18a
+1.03 ±
+0.08b
+Arginine
+3.56 ±
+0.94c
+5.17 ±
+1.78a
+4.37 ±
+1.34b
+3.59 ±
+1.07c
+4.28 ±
+1.22b
+Bitter amino 
+acid
+23.88 ±
+3.78a
+17.14 ±
+3.25b
+17.75 ±
+3.31b
+16.21 ±
+2.97c
+17.36 ±
+3.15b
+Lysine
+2.98 ±
+0.94c
+3.95 ±
+1.57b
+3.87 ±
+1.22b
+4.78 ±
+1.78a
+3.72 ±
+1.45b
+Cystine
+2.04 ±
+0.44a
+2.31 ±
+0.76a
+1.76 ±
+0.61b
+1.90 ±
+0.32b
+2.33 ±
+0.77a
+Tyrosine
+0.81 ±
+0.07c
+2.02 ±
+0.27a
+2.03 ±
+0.25a
+1.91 ±
+0.14b
+1.85 ±
+0.18b
+(continued on next page)
+Y. Liao et al.                                                                                                                                                                                                                                     
+Food Chemistry: X 25 (2025) 102220 
+5 
+
+=== PAGE 6 ===
+3.2.3. Free amino acids
+Free amino acids are key substances in the flavor of edible mush­
+rooms. Table 3 show the effects of different drying methods on the 
+contents of 17 free amino acids in M. sextelata. The content of total free 
+amino acids for FS is 55.70 mg/g DW, and the contents of total free 
+amino acids in samples treated by different drying methods decrease in 
+the order of VFD > HAD-MVD > HAD > ND. In general, drying can 
+promote the release of free amino acids from proteins (Hu et al., 2020). 
+Among the samples, the VFD-treated group has the highest content of 
+free amino acids (57.62 mg/g DW), which may be related to the low 
+temperature and vacuum environment slowing the Maillard reaction. Li, 
+Zhou, et al. (2024) demonstrated that proteolytic enzymes can remain 
+active at lower temperatures and can decompose proteins into free 
+amino acids sustainably during freeze-drying. However, the contents of 
+free amino acids in the HAD-MVD and HAD samples are low, which may 
+be due to the influence of heat promoting the Maillard reaction.
+Free amino acids can be divided into four categories according to 
+taste characteristics: umami (aspartate and glutamate), sweet (threo­
+nine, serine, glycine, alanine, and proline), bitter (valine, methionine, 
+isoleucine, leucine, phenylalanine, histidine, and arginine), and tasteless 
+(lysine, cystine, and tyrosine) (Wen et al., 2022). In general, umami 
+amino acids are the most important for the flavor quality of dried 
+M. sextelata products. In this study, glutamate – the main amino acid of 
+umami flavor – is the highest amino acid detected in M. sextelata sam­
+ples, accounting for 65 %–75 % of umami amino acids. The glutamate 
+contents of the VFD and HAD-MVD samples are highest (9.91 and 9.19 
+mg/g DW, respectively), followed by those for HAD (8.58 mg/g DW) and 
+ND (7.74 mg/g DW). Thus, VFD and HAD-MVD treatments retain the 
+umami substances of M. sextelata to the maximum extents (Li et al., 
+2015).
+3.2.4. 5’-nucleotides
+5’-Nucleotides are an important component of the characteristic 
+taste of edible mushrooms, and they are also precursors to some volatile 
+components (Wen et al., 2022). As shown in Table 3, five 5′-nucleotides 
+were detected in the samples, namely 5’-CMP, 5’-UMP, 5’-GMP, 5’-IMP, 
+and 5’-AMP. Among them, 5’-CMP was detected only in dry samples, 
+and 5’-GMP and 5’-IMP accounted for large proportions of the total 5′- 
+nucleotide contents. The total 5′-nucleotide content for the FS group is 
+5.11 mg/g, while those for the other samples are slightly increased 
+(except that for ND). The VFD sample has the highest 5′-nucleotide 
+content at 7.13 mg/g, which is attributed to its low temperature drying 
+process and porous product structure preventing nucleotide degradation 
+(Hu et al., 2020). Similar results were also observed in Stropharia rugoso- 
+annulata (Hu et al., 2020) and Pleurotus eryngii (Li et al., 2015). The 5′- 
+nucleotide content of the HAD sample is significantly lower than that for 
+VFD and HAD-MVD (p < 0.05), which may be due to the destruction of 
+5′-nucleotides exposed to long drying times and high temperature. 
+Umami 5′-nucleotides include 5’-AMP, 5’-GMP, and 5’-IMP. Previous 
+studies have shown that 5’-GMP and 5’-IMP are major contributors to 
+umami taste, and there is a synergistic effect between them, while 5’- 
+AMP can inhibit bitter taste, enhance sweetness, and contribute to 
+umami taste (Luo et al., 2021). Among all the treatment groups, HAD- 
+MVD samples show the highest 5’-GMP and 5’-AMP contents (3.98 
+and 0.48 mg/g, respectively), while the highest 5’-IMP content (4.08 
+mg/g) is observed for VFD. In the samples treated with VFD and HAD- 
+MVD, the total contents of the above three nucleotides is significantly 
+higher than that of HAD, which further indicates that VFD and HAD- 
+MVD treatments confer desirable sweet and fresh flavor characteristics 
+to M. sextelata.
+The above results show that there are significant differences in the 
+non-volatile compounds in the M. sextelata products dried with different 
+treatments, with those treated with VFD and HAD-MVD having higher 
+levels of soluble sugars, free amino acids, and 5′-nucleotides, which 
+significantly enhance the sweetness, freshness, and overall flavor of the 
+products. However, in the samples treated with HAD, the content of 
+organic acids is highest, and the interaction of organic acids with other 
+flavor components (e.g., sugars, free amino acids, nucleotides, etc.) can 
+form a more complex and varied flavor hierarchy. The reasons for the 
+variation of these non-volatile compounds are complex because they 
+interact with each other and may be involved in enzymatic, thermal, and 
+oxidative reactions as precursors, resulting in different flavor profiles 
+(Zhao et al., 2023).
+EUC values indicate a synergistic effect between umami nucleotides 
+and amino acids on umami properties (Hou et al., 2021). EUC is divided 
+into four levels: > 1000 (grade 1), 100–1000 (grade 2), 10–100 (grade 
+3), and < 10 g MSG/100 g (grade 4) (Li et al., 2015). Table 3 shows the 
+EUC values of the M. sextelata samples. The EUC values of fresh, HAD, 
+and ND samples are grade 2. HAD-MVD and VFD methods increase the 
+EUC value to grade 1, and there is no significant difference between 
+them (p > 0.05). This is because both HAD-MVD and VFD increase the 
+glutamate and 5’-GMP contents in M. sextelata (an important source of 
+umami) (Li et al., 2015). In addition, the 5’-AMP content for the HAD- 
+MVD samples is higher than that of the VFD samples, suggesting that 
+HAD-MVD is a potential technique for enhancing umami intensity, 
+which is essential for the development of dried M. sextelata.
+3.3. Changes of volatile flavor components
+3.3.1. VOCs
+Table 4 shows the volatile compounds of M. sextelata. A total of seven 
+alcohols, six aldehydes, four ketones, five alkanes, three aromatic hy­
+drocarbons, and three other compounds were detected. There are one, 
+one, six, and one unique VOCs in the FS, HAD, VFD, and ND groups, 
+respectively; and there are no unique VOCs in the HAD-MVD group 
+(Fig. 2A). Circos plots show the different concentrations of different 
+categories of VOCs in the M. sextelata after drying treatment. As shown 
+in Fig. 2C, alkanes are most abundant in FS and ND samples (65.34 %, 
+52.57 %), while alcohols are most abundant in the HAD, VFD, and HAD- 
+MVD groups (89.87 %, 76.57 %, and 85.44 %, respectively). Alcohols (e. 
+g., 1-octen-3-ol, benzyl alcohol, 1-hexanol, 2-ethyl-1-hexanol, 4-methyl- 
+1-pentanol, ethylene glycol, and trans-2-decenol), aldehydes (e.g., 
+benzaldehyde and E-2-octenal), and ketones (e.g., 3-octanone and 1- 
+octen-3-one) are the major VOCs in the morel mushrooms.
+The VFD-treated group shows the largest variety of alcohols, alde­
+hydes, and ketones among all the treatment groups (Fig. 2B), 
+Table 3 (continued)
+Indicators 
+FS 
+HAD 
+HAD-MVD 
+VFD 
+ND
+Tasteless amino 
+acid
+5.83 ±
+2.17c
+8.29 ±
+2.82a
+7.65 ±
+2.57b
+8.59 ±
+2.82a
+7.90 ±
+2.61b
+Total
+55.70 ±
+8.78b
+53.61 ±
+8.35b
+54.01 ±
+8.53b
+57.62 ±
+9.48a
+52.54 ±
+8.02b
+5′-nucleotides 
+(mg/g)
+5’-CMP
+–
+0.29 ±
+0.08b
+0.38 ±
+0.04a
+0.13 ±
+0.02c
+0.19 ±
+0.02c
+5’-UMP
+0.07 ±
+0.01c
+0.24 ±
+0.02a
+0.22 ±
+0.05a
+0.19 ±
+0.01b
+0.16 ±
+0.02b
+5’-GMP
+3.96 ±
+0.14a
+2.98 ±
+0.08b
+3.98 ±
+0.16a
+2.37 ±
+0.05c
+2.27 ±
+0.03c
+5’-IMP
+1.01 ±
+0.09c
+1.34 ±
+0.13c
+2.01 ±
+0.27b
+4.08 ±
+0.32a
+0.91 ±
+0.15c
+5’-AMP
+0.07 ±
+0.01c
+0.45 ±
+0.04a
+0.48 ±
+0.07a
+0.37 ±
+0.05b
+0.40 ±
+0.04a
+Total
+5.11 ±
+0.21b
+5.29 ±
+0.15b
+7.07 ±
+0.26a
+7.13 ±
+0.31a
+3.94 ±
+0.18c
+EUC (g MSG/ 
+100 g)
+496.51 
+± 32.47c
+894.33 
+± 64.25b
+1293.20 
+± 113.58a
+1198.39 
+± 93.47a
+596.15 
+± 39.16c
+Note: “-”: not detected. The different representations of small letters in the same 
+index are significantly different (p < 0.05). EUC: equivalent umami concentra­
+tion; FS, fresh; HAD, hot air dried; HAD-MVD, hot-air combined with microwave 
+vacuum drying; VFD, vacuum freeze drying; ND, natural drying.
+Y. Liao et al.                                                                                                                                                                                                                                     
+Food Chemistry: X 25 (2025) 102220 
+6 
+
+=== PAGE 7 ===
+Table 4 
+Effects of different drying methods on volatile compounds of M. sextelata.
+Compounds
+Cas
+Content (μg/kg DW)
+Odor description
+FS
+HAD
+HAD-MVD
+VFD
+ND
+Alcohols
+–
+1
+1-Octen-3-ol
+003391–86- 
+4
+168,497 ±
+2348d
+2,146,449 ±
+30584a
+1,030,149 ±
+10297b
+214,333 ±
+3582c
+Mushroom flavor, Earthy flavor
+2
+Benzyl alcohol
+000100–51- 
+6
+–
+–
+–
+994 ± 47
+–
+Flower fragrance
+3
+2-ethyl-1-Hexanol
+000104–76- 
+7
+2038 ±
+56c
+1570 ± 47d
+18,139 ± 77a
+8794 ± 59b
+1731 ± 43d
+Citrus flavor, Flower fragrance, 
+Sugary flavor
+4
+1-Octanol
+000111–87- 
+5
+–
+270 ± 16
+–
+–
+–
+Mushroom flavor, Glutinous 
+incense
+5
+4-Methyl-1-pentanol
+000626–89- 
+1
+–
+–
+–
+3090 ± 37
+–
+Nut fragrance
+6
+1,2-Ethanediol
+000107–21- 
+1
+–
+14,922 ± 79b
+–
+25,140 ± 103a
+9857 ± 70c
+NF
+7
+(E)-2-Decen-1-ol
+018409–18- 
+2
+–
+9822 ± 68b
+–
+59,430 ± 187a
+3627 ± 38c
+Fresh air, Citrus flavor, Flower 
+fragrance
+8
+2-Decen-1-ol
+022104–80- 
+9
+–
+–
+–
+2866 ± 54
+–
+Fresh air, Glutinous incense, 
+Flower fragrance
+Aldehydes
+9
+Benzaldehyde
+000100–52- 
+7
+349 ±
+27e
+1001 ± 28d
+9746 ± 59b
+15,181 ± 116a
+2199 ± 44c
+Bitter almond flavor, Sugary flavor
+10
+4-Ethylbenzaldehyde
+004748–78- 
+1
+–
+–
+–
+791 ± 53
+–
+Bitter almond flavor, sugary flavor, 
+Fennel flavor
+11
+(E)-2-Octenal
+002548–87- 
+0
+–
+10,123 ±
+109c
+151,781 ±
+1307a
+108,237 ±
+3965b
+9661 ± 96c
+Cucumber flavor, Umami,
+12
+2-butyloct-2-enal
+013019–16- 
+4
+–
+–
+–
+214 ± 19
+–
+Fruity
+13
+5-Methyl-2-phenyl-2- 
+hexenal
+21,834–92-4
+368 ± 23
+–
+–
+–
+–
+Cocoa flavor, Bitter flavor
+14
+Benzeneacetaldehyde
+000122–78- 
+1
+–
+1008 ± 26b
+9801 ± 88a
+–
+–
+Cocoa flavor, Flower fragrance
+Compounds
+Cas
+Content (μg/kg DW)
+Odor description
+FS
+HAD
+HAD-MVD
+VFD
+ND
+Ketones
+15
+3-Octanone
+000106–68- 
+3
+–
+1040 ± 23c
+36,812 ± 97a
+–
+15,262 ±
+64b
+Lavender flavor, Sugary flavor
+16
+1-heptene-3-one
+002918–13- 
+0
+–
+3760 ± 68b
+–
+26,149 ± 145a
+–
+Metallic
+17
+Methyl vinyl ketone
+000078–94- 
+4
+–
+–
+–
+132 ± 22b
+204 ± 23a
+Sugary flavor
+18
+1-Octen-3-one
+004312–99- 
+6
+–
+–
+59,092 ± 147a
+–
+5197 ± 203b
+Mushroom flavor, Earthy flavor
+Alkane
+19
+Dodecamethylcyclohexasiloxane
+000540–97- 
+6
+52 ± 9d
+3567 ± 93c
+42,687 ± 309a
+46,037 ± 330a
+36,114 ±
+286b
+NF
+20
+Decamethyltetrasiloxane
+000141–62- 
+8
+12,739 ±
+213c
+–
+–
+54,601 ± 479b
+67,533 ±
+497a
+NF
+21
+Tridecane
+000629–50- 
+5
+–
+–
+–
+4050 ± 103a
+1486 ± 59b
+NF
+22
+Dodecane
+000112–40- 
+3
+–
+–
+–
+1649 ± 67b
+2020 ± 89a
+Alkane flavor
+23
+Decamethylcyclopentasiloxane
+000541–02- 
+6
+752 ± 34d
+221 ± 24d
+17,940 ± 157c
+46,046 ± 429b
+306,481 ±
+5789a
+NF
+Aromatic hydrocarbon
+24
+Tetramethyl benzene
+000488–23- 
+3
+1568 ±
+97d
+1155 ± 75d
+17,206 ± 143c
+33,488 ± 302b
+100,000 ±
+1032a
+Sour sweetness
+25
+1-ethyl-4-propan-2-ylbenzene
+004218–48- 
+8
+–
+111 ± 10b
+–
+2229 ± 133a
+–
+NF
+26
+Ethyl-m-xylene
+000151–10- 
+0
+2778 ±
+147d
+–
+22,111 ± 206a
+5714 ± 98c
+10,802 ±
+239b
+NF
+Others
+27
+2-Methylnaphthalene
+000091–57- 
+6
+–
+–
+–
+–
+100 ± 44
+Sugary flavor, Flower 
+fragrance, Woody fragrance
+(continued on next page)
+Y. Liao et al.                                                                                                                                                                                                                                     
+Food Chemistry: X 25 (2025) 102220 
+7 
+
+=== PAGE 8 ===
+significantly increasing the flavor diversity of the product; while the 
+HAD-MVD samples show the highest concentration of VOCs, which also 
+indicates that the short heating and drying treatment favor the accu­
+mulation of VOCs. The total VOC contents decrease in the order HAD- 
+MVD > VFD > ND > HAD.
+Alcohols are characteristic substances commonly found in edible 
+mushrooms, among which 1-octen-3-ol has a typical mushroom flavor 
+and is known as mushroom alcohol (Li et al., 2023). However, 
+eight‑carbon alcohols are susceptible to oxidation, degradation, and 
+enzymatic reactions during drying and have poor stability, so effective 
+control of the drying temperature and drying method is essential to 
+maintain their quality and effect (Liu, Bau, et al., 2022). From Table 4, it 
+can be seen that 1-octen-3-ol is not detected in fresh M. sextelata, while 
+its content increases significantly after drying treatment and varies 
+significantly between drying treatments (p < 0.05), i.e., 2,146,449 
+(HAD-MVD), 1,030,149 (VFD), 214,333 (NAD), and 168,497 (HAD) μg/ 
+Table 4 (continued)
+Compounds 
+Cas 
+Content (μg/kg DW) 
+Odor description
+FS 
+HAD 
+HAD-MVD 
+VFD 
+ND
+28
+2,5-Di-tert-butylphenol
+001138–52- 
+9
+82 ± 10c
+–
+1639 ± 78a
+125 ± 12c
+279 ± 38b
+NF
+29
+3,4-Dichlorophenol
+000095–77- 
+2
+–
+–
+–
+1329 ± 101
+–
+Flower fragrance
+Total
+20,726 ±
+210e
+217,067 ±
+228b
+2,533,403 ±
+20468a
+1,476,435 ±
+14287c
+786,886 ±
+629d
+Note: “-”: not detected. Odorant descriptions were obtained from literature searches. FS, fresh; HAD, hot air dried; HAD-MVD, hot-air combined with microwave 
+vacuum drying; VFD, vacuum freeze drying; ND, natural drying.
+Fig. 2. The volatile compounds in M. sextelata at different drying methods based on GC–MS data. A, Venn diagram; B, Flavor distribution profile; C, Circos plot; D, 
+Heat map. FS, fresh; HAD, hot air dried; HAD-MVD, hot-air combined with microwave vacuum drying; VFD, vacuum freeze drying; ND, natural drying.
+Y. Liao et al.                                                                                                                                                                                                                                     
+Food Chemistry: X 25 (2025) 102220 
+8 
+
+=== PAGE 9 ===
+kg DW, accounting for 27 %–85 % of the total volatile flavor com­
+pounds. Longer drying time (ND-60 h) and higher heating temperature 
+(HAD-55 ◦C) lead to volatilization, degradation, and transformation of 
+alcohols (Liu, Liao, et al., 2022; Wang, Wang, et al., 2023). In contrast, 
+HAD-MVD has a shorter drying time than HAD alone and also imparts a 
+more uniform internal structure, which ensures that enzymes, such as 
+lipoxygenase and hydroperoxide lyase, fully react with the unsaturated 
+fatty acid substrates, which in turn produces more eight‑carbon com­
+pounds (Luo et al., 2021).
+Aldehydes, especially C5–C9 aldehydes, produced by the oxidation 
+of unsaturated fatty acids, are also important components for the char­
+acteristic aroma of edible mushrooms (Li et al., 2023). The highest 
+content of aldehydes was found in the HAD-MVD-treated group 
+(171,328 μg/kg), followed by the VFD-treated group (124,423 μg/kg). 
+The highest-content aldehydes are benzaldehyde and E-2-octenal, which 
+contribute to the bitter almond flavor and sweetness of the M. sextelata. 
+The contents of benzaldehyde and E-2-octenal are significantly higher 
+(p < 0.05) after HAD-MVD treatment, which may be related to the 
+Strecker degradation of amino acids under high-temperature conditions 
+and during microwave radiation (Hofmann, Münch, & Schieberle, 
+2000). The higher content of aldehydes in the VFD-treated group is 
+mainly attributed to the fact that the water in the M. sextelata in the 
+drying process is directly sublimated in a low-temperature and low- 
+pressure environment, so the internal organization of the tissue is 
+more complete, which is conducive to the production and retention of 
+volatile compounds. This is consistent with the findings reported in 
+(Polat, Guclu, Kelebek, Keskin, & Selli, 2022).
+A total of four ketones were detected in dried M. sextelata products, 
+among which 3-octanone and 1-octen-3-one, as the main eight‑carbon 
+ketones in M. sextelata, exude mushroomy and sweet flavors and a 
+pleasant aroma. Zhang et al. (2023) also obtained that these substances 
+when using ultra performance tandem mass spectrometry combined 
+with two-dimensional gas chromatography-time-of-flight mass spec­
+trometry method for the detection and relative quantification of me­
+tabolites from two morchella varieties. Ketones are mainly produced by 
+amino acid degradation, unsaturated fatty acid oxidation, and the 
+Maillard reaction (Sun, Lin, Li, & Li, 2024). 3-Octanone (36,812 μg/kg) 
+and 1-octen-3-one (59,092 μg/kg) are more abundant in the HAD-MVD 
+sample than in the other treatment groups. This may be due to the fact 
+that during the vacuum microwave treatment, the tissue cells are rapidly 
+expanded under vacuum and high internal vapor pressure, resulting in 
+the destruction of the cell walls, facilitating the exit of volatile 
+compounds from cells (Liu, Liao, et al., 2022).
+In order to further clarify the effect of different drying methods on 
+the VOCs of M. sextelata, the variables were normalized to obtain a 
+clustered heat map of different M. sextelata samples (Fig. 2D). The more 
+intense the orange color, the higher the peak content, while the more 
+intense the blue color, the lower the peak content. These differences in 
+color and intensity visually reflect differences between multiple sample 
+groups, facilitating the identification of similarities and differences be­
+tween samples (Sun et al., 2024). As the Euclidean distance increases, 
+distinctions between the characteristic volatile compounds of each 
+group of samples clearly emerge.
+Different drying treatments cause changes in the types and contents 
+of volatile compounds in M. sextelata, and HAD-MVD and VFD increase 
+the types and contents of alcohols and aldehydes in dried M. sextelata 
+products. However, HAD-MVD presents the highest content of volatile 
+aroma compounds, so HAD-MVD is a very promising way of drying 
+M. sextelata from the point of view of volatile compounds.
+3.3.2. Electronic nose analysis
+Electronic nose analysis is a quality control method that thoroughly 
+reviews the total odor information of the examined samples (Li et al., 
+2019). As can be seen from Fig. 3A, the odor information profiles of 
+dried M. sextelata obtained by different drying treatments are relatively 
+similar. The W1W, W2W, and W5S sensors, which present sensitivity to 
+sulfur compounds; aromatic and organic sulfur compounds; and nitro­
+gen oxides, respectively, show higher response values. It is apparent 
+from the radargram that the response values for the VFD-treated W1W, 
+W2W, W2S, and W5S sensors are significantly higher than those of the 
+other samples, followed by the HAD-MVD-treated group, and this is in 
+agreement with the previous results showing that the VFD- and HAD- 
+MVD-treated groups show the highest variety and contents of volatile 
+compounds.
+The electronic nose data were analyzed using principle component 
+analysis. As can be seen from Fig. 3B, the variance contributions of the 
+first principal component (PC1) and the second principal component 
+(PC2) are 70.1 % and 23.5 %, respectively, and the cumulative variance 
+contribution of PC1 and PC2 is 93.5 %, indicating that PC1 and PC2 
+basically contained all the information of the samples, and that the de­
+gree of separation between the samples was good, which indicated that 
+there was a striking difference in the composition of the taste of each 
+sample. From the PCA distribution graph, it is apparent that there are 
+well separated between the ND group and the HAD-MVD, HAD, and VFD 
+Fig. 3. The principal component analysis (A) and the radar chart (B) of E-nose response data in the fresh and different dried M. sextelata. FS, fresh; HAD, hot air dried; 
+HAD-MVD, hot-air combined with microwave vacuum drying; VFD, vacuum freeze drying; ND, natural drying.
+Y. Liao et al.                                                                                                                                                                                                                                     
+Food Chemistry: X 25 (2025) 102220 
+9 
+
+=== PAGE 10 ===
+groups, indicating that there are obvious differences in flavor compo­
+nents of M. sextelata between ND treatment group and other treatment 
+groups. While there is a minor intersection between the VFD group and 
+the HAD-MVD and HAD groups, which indicated that the taste of VFD 
+treated group was close to each other on the whole and HAD certain 
+similarity. This shows that the electronic nose can better distinguish the 
+flavors of samples with different drying treatments.
+3.4. Correlation analysis of volatile and non-volatile flavor compounds
+A significant (p < 0.05) association was established between VOC 
+and non-volatile chemicals (Fig. 4), with yellow and gray representing 
+positive and negative correlations, respectively, and thicker lines indi­
+cating stronger correlations. N1 (trehalose), N2 (glucose), N3 
+(mannose), N4 (fructose), and N5 (sucrose) show significant positive 
+correlations with all alcohols, aldehydes and ketones; N6 (lactic acid) 
+and N8 (amber acid) show a negative correlation with most of the al­
+cohols, aldehydes, and ketones; and N7 (malic acid), N9 (fumaric acid), 
+and N10 (citric acid) show a very strong correlation with V13 (5-methyl- 
+2-phenyl-2-hexenal). N11 (umami amino acids) shows a positive cor­
+relation with most alcohols and aldehydes, and N12 (sweet amino acids) 
+and N13 (bitter amino acids) show a very strong positive correlation 
+with V13 (5-methyl-2-phenyl-2-hexenal). N15 (5’-CMP) shows a posi­
+tive correlation with two alcohols (V1: 1-octen-3-ol and V2: benzyl 
+alcohol), an aldehyde (V11: E-2-octenal), and two ketones (V14: ben­
+zeneacetaldehyde and V15: 3-octanone). N16 (5’-UMP) and N19 (5’- 
+AMP) show a very strong negative correlation with V13 (5-methyl-2- 
+phenyl-2-hexenal). N18 (5’-IMP) shows a positive correlation with most 
+of the alcohols, aldehydes, and ketones, while N17 (5’-GMP) shows the 
+exact opposite.
+Various fatty acids, amino acids and carbohydrates in food as aroma 
+precursors were catalyzed to form numerous volatile compounds under 
+the action of some enzymes (Zhang, Zhang, & Mujumdar, 2021). The 
+higher sugar content (sucrose, glucose, and fructose, etc) in Table 3
+could also increase the levels of pyrazines, furans, ketones, and het 
+erocyclic nitrogen-containing compounds. In our study, no heterocyclic 
+compounds such as pyrazines were detected, which may be due to the 
+relatively 
+high 
+generation 
+temperature 
+of 
+pyrazines, 
+about 
+120 ◦C–150 ◦C, and the drying method we adopted could not reach such 
+a high temperature. Amino acids have been discovered to be deaminated 
+and transformed into α-ketoic acids, then decarboxylated into alde­
+hydes, and ultimately degraded or oxidized into alcohols or acids, and 
+have been considered as the primary precursors for the synthesis of 
+fragrance components(Sun et al., 2020). In addition to the contribution 
+Fig. 4. Network correlation analysis of the volatile components related to the main non-volatile components during different drying methods with M. sextelata. FS, 
+fresh; HAD, hot air dried; HAD-MVD, hot-air combined with microwave vacuum drying; VFD, vacuum freeze drying; ND, natural drying.
+Y. Liao et al.                                                                                                                                                                                                                                     
+Food Chemistry: X 25 (2025) 102220 
+10 
+
+=== PAGE 11 ===
+to taste, the combi nation of amino acids and sugars was also considered 
+important precursors to the formation of aroma compounds (Tu et al., 
+2023). Deoxyglucose can interconvert with deoxyglucosone, and its 
+reaction with phenylalanine can lead to the formation of benzaldehyde 
+(Li et al., 2024). Overall, the combination of sugars, amino acids and 
+eight‑carbon compounds work together to provide a special morels 
+flavor. However, the interaction between the non-volatile components 
+and VOCs in M. sextelata is very complex, involving the results of 
+physical and chemical changes of each component and their interactions 
+(Zhao et al., 2023), the mechanisms of which require further 
+investigation.
+4. Conclusions
+The use of different drying methods results in significant differences 
+in the sensory quality of M. sextelata, with the color and microstructure 
+of VFD-treated M. sextelata being closer to those of fresh M. sextelata, and 
+the contents of soluble sugars, 5′-nucleotides, and total free amino acids 
+being at higher levels in the treatment groups. In addition, VFD treat­
+ment increases the variety of volatile flavor substances, thus enriching 
+the unique flavor of M. sextelata, but VFD treatment involves a long 
+drying cycle, high energy consumption, and high production cost. 
+Therefore, it is not widely used in commercial production. However, 
+HAD-MVD treatment involves a shorter drying cycle and produces 
+M. sextelata with a color and structure similar to that achieved with VFD. 
+Furthermore, HAD-MVD treatment significantly increases the contents 
+of total soluble sugars, 5′-nucleotides, total free amino acids, and volatile 
+flavor substances in M. sextelata. In addition, the electronic nose results 
+were consistent with the changes in flavor compounds, suggesting that 
+HAD-MVD and VFD treatments improve the unique flavor of 
+M. sextelata. The results of HAD-MVD were better than those of VFD in 
+terms of EUC values and total aroma compound content. Correlation 
+analysis showed that there is a significant association between the for­
+mation of non-volatile and volatile flavor substances in M. sextelata (p <
+0.05). Therefore, considering actual production in terms of time and 
+cost, HAD-MVD is an ideal process for drying M. sextelata.
+CRediT authorship contribution statement
+Yaxuan Liao: Writing – review & editing, Writing – original draft. 
+Mengdi Xin: Writing – original draft, Investigation. Hao Dong: Formal 
+analysis, Data curation. Yuxing Liu: Methodology, Investigation. Lin­
+gling Li: Validation, Formal analysis. Xinyong Guo: Validation, Formal 
+analysis. Shaobo Cheng: Validation, Supervision, Project administra­
+tion, Conceptualization. Guogang Chen: Supervision, Resources, 
+Funding acquisition, Conceptualization.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Acknowledgements
+This work was supported by the earmarked fund for XJARS-07; Corps 
+Key Areas of Science and Technology Research and Development Plan 
+(2024AB026)；The “Unveiling and Appointing Heroes” project of the 
+Seventh Division Hu Yanghe City (QS2023011; QS2024002).
+Data availability
+Data will be made available on request.
+References
+Aisala, H., Manninen, H., Laaksonen, T., Linderborg, K. M., Myoda, T., Hopia, A., et al. 
+(2020). Linking volatile and non-volatile compounds to sensory profiles and 
+consumer liking of wild edible Nordic mushrooms. Food Chemistry, 304, Article 
+125403. https://doi.org/10.1016/j.foodchem.2019.125403
+Bai, J. W., Wang, Y. C., Cai, J. R., Zhang, L., Dai, Y., Tian, X. Y., et al. (2023). Three- 
+Dimensional Appearance and Physicochemical Properties of Pleurotus eryngii under 
+Different Drying Methods. Foods, 12(10), 1999. https://doi.org/10.3390/ 
+foods12101999
+Chen, A., Achkar, G. E., Liu, B., & Bennacer, R. (2021). Experimental study on moisture 
+kinetics and microstructure evolution in apples during high power microwave drying 
+process. Journal of Food Engineering, 292, Article 110362. https://doi.org/10.1016/j. 
+jfoodeng.2020.110362
+Chen, D., Sheng, M., Wang, S., Chen, X., Leng, A., & Lin, S. (2023). Dynamic changes and 
+formation of key contributing odorants with amino acids and reducing sugars as 
+precursors in shiitake mushrooms during hot air drying. Food Chemistry, 424, Article 
+136409. https://doi.org/10.1016/j.foodchem.2023.136409
+Elbein, A. D. (2003). New insights on trehalose: A multifunctional molecule. 
+Glycobiology, 13(4), 17R–27. https://doi.org/10.1093/glycob/cwg047
+Hofmann, T., Münch, P., & Schieberle, P. (2000). Quantitative Model Studies on the 
+Formation of Aroma-Active Aldehydes and Acids by Strecker-Type Reactions. 
+Journal of Agricultural and Food Chemistry, 48(2), 434–440. https://doi.org/10.1021/ 
+jf990954c
+Hou, H., Liu, C., Lu, X., Fang, D., Hu, Q., Zhang, Y., et al. (2021). Characterization of 
+flavor frame in shiitake mushrooms (Lentinula edodes) detected by HS-GC-IMS 
+coupled with electronic tongue and sensory analysis: Influence of drying techniques. 
+LWT, 146, Article 111402. https://doi.org/10.1016/j.lwt.2021.111402
+Hu, L., Bi, J., Jin, X., Qiu, Y., & Sman, R. G. M. V. D. (2021). Study on the Rehydration 
+Quality Improvement of shiitake Mushroom by Combined Drying Methods. Foods, 10 
+(4), 769. https://doi.org/10.3390/foods10040769
+Hu, S., Feng, X., Huang, W., Ibrahim, S. A., & Liu, Y. (2020). Effects of drying methods on 
+non-volatile taste components of Stropharia rugoso-annulata mushrooms. LWT, 127, 
+Article 109428. https://doi.org/10.1016/j.lwt.2020.109428
+Li, W., Wang, J., Chen, W., Yang, Y., Zhang, J., Feng, J., et al. (2019). Analysis of volatile 
+compounds of Lentinula edodes grown in different culture substrate formulations. 
+Food Research International, 125, Article 108517. https://doi.org/10.1016/j. 
+foodres.2019.108517
+Li, X., Feng, T., Zhou, F., Zhou, S., Liu, Y., Li, W., et al. (2015). Effects of drying methods 
+on the tasty compounds of Pleurotus eryngii. Food Chemistry, 166, 358–364. https:// 
+doi.org/10.1016/j.foodchem.2014.06.049
+Li, X., Zhang, Y., Hengchao, E., He, X., Li, J., Zhao, X., et al. (2023). Characteristic 
+fingerprints and comparison of volatile flavor compounds in Morchella sextelata 
+under different drying methods. Food Research International, 172, Article 113103. 
+https://doi.org/10.1016/j.foodres.2023.113103
+Li, X., Zhou, Y., Dong, H., Sun, T., Liu, Y., Cheng, S., et al. (2024). Effects of 
+ultrasonication and freeze–thaw pretreatments on the vacuum freeze-drying process 
+and quality characteristics of apricot (Prunus armeniaca L. cv. Diaoganxing). Food 
+Chemistry, X, 22, Article 101357. https://doi.org/10.1016/j.fochx.2024.101357
+Li, Y., Han, J., Yarley, O. P. N., Wang, Y., Wang, Y., Zhang, A., et al. (2024). Effects of 
+combined drying techniques and cellulase hydrolysis on the nutritional value and 
+sensory properties of shiitake mushrooms (Lentinus edodes). Food Chemistry, 450, 
+Article 139387. https://doi.org/10.1016/j.foodchem.2024.139387
+Liao, M., Pang, F., Wang, Z., Wang, Y., Huang, Z., Deng, L., et al. (2024). The 
+composition and flavor change mechanism of membrane-filtered sugarcane syrup 
+during the acid hydrolysis process based on 1H NMR and GC–IMS. Journal of Food 
+Composition and Analysis, 133, Article 106430. https://doi.org/10.1016/j. 
+jfca.2024.106430
+Liao, Y., Liu, Y., Zhang, W., Dong, H., Yang, L., Zhang, J., et al. (2024). Effects of 
+variable-temperature drying on the qualities and sweet-substance profile of Zizyphus 
+jujuba Mill. Cv. Junzao. Food Chemistry: X, 22, Article 101361. https://doi.org/ 
+10.1016/j.fochx.2024.101361
+Liu, Q., Bau, T., Jin, R., Cui, X., Zhang, Y., & Kong, W. (2022). Comparison of different 
+drying techniques for shiitake mushroom (Lentinus edodes): Changes in volatile 
+compounds, taste properties, and texture qualities. LWT, 164, Article 113651. 
+https://doi.org/10.1016/j.lwt.2022.113651
+Liu, Y., Liao, Y., Guo, M., Zhang, W., Sang, Y., Wang, H., et al. (2022). Comparative 
+elucidation of bioactive and volatile components in dry mature jujube fruit (Ziziphus 
+jujuba Mill.) subjected to different drying methods. Food Chemistry, X, 14, Article 
+100311. https://doi.org/10.1016/j.fochx.2022.100311
+Liu, Y., Zhang, W., Yang, W., Sang, Y., Guo, M., Liu, D., et al. (2021). The effects of 
+drying temperature on the kinetics, color, structure, and pectin composition of 
+Zizyphus jujuba Mill. Cv. Junzao. Journal of Food Processing and Preservation, 45(11). 
+https://doi.org/10.1111/jfpp.15942
+Luo, D., Wu, J., Ma, Z., Tang, P., Liao, X., & Lao, F. (2021). Production of high sensory 
+quality Shiitake mushroom (Lentinus edodes) by pulsed air-impingement jet drying 
+(AID) technique. Food Chemistry, 341, Article 128290. https://doi.org/10.1016/j. 
+foodchem.2020.128290
+Polat, S., Guclu, G., Kelebek, H., Keskin, M., & Selli, S. (2022). Comparative elucidation 
+of colour, volatile and phenolic profiles of black carrot (Daucus carota L.) pomace 
+and powders prepared by five different drying methods. Food Chemistry, 369, Article 
+130941. https://doi.org/10.1016/j.foodchem.2021.130941
+Pu, Y. Y., & Sun, D. W. (2017). Combined hot-air and microwave-vacuum drying for 
+improving drying uniformity of mango slices based on hyperspectral imaging 
+visualisation of moisture content distribution. Biosystems Engineering, 156, 108–119. 
+https://doi.org/10.1016/j.biosystemseng.2017.01.006
+Y. Liao et al.                                                                                                                                                                                                                                     
+Food Chemistry: X 25 (2025) 102220 
+11 
+
+=== PAGE 12 ===
+Shen, Q., He, Z., Ding, Y., & Sun, L. (2023). Effect of Different Drying Methods on the 
+Quality and Nonvolatile Flavor Components of Oudemansiella raphanipes. Foods, 12 
+(3), 676. https://doi.org/10.3390/foods12030676
+Sun, L., Zhang, Z., Xin, G., Sun, B., Bao, X., Wei, Y., et al. (2020). Advances in umami 
+taste and aroma of edible mushrooms. Trends in Food Science & Technology, 96, 
+176–187. https://doi.org/10.1016/j.tifs.2019.12.018
+Sun, M., Ni, L., Huang, Y., Yang, M., Cheng, G., Zhang, M., et al. (2023). Effects of 
+different drying treatments on the microstructure, free amino acids, volatile 
+compounds and antioxidant activity of Flammulina velutipes root. Food Chemistry: X, 
+18, Article 100656. https://doi.org/10.1016/j.fochx.2023.100656
+Sun, P., Lin, S., Li, X., & Li, D. (2024). Different stages of flavor variations among canned 
+Antarctic krill (Euphausia superba): Based on GC-IMS and PLS-DA. Food Chemistry, 
+459, Article 140465. https://doi.org/10.1016/j.foodchem.2024.140465
+Tian, Y., Zhao, Y., Huang, J., Zeng, H., & Zheng, B. (2016). Effects of different drying 
+methods on the product quality and volatile compounds of whole shiitake 
+mushrooms. Food Chemistry, 197, 714–722. https://doi.org/10.1016/j. 
+foodchem.2015.11.029
+Tu, Z., Liu, Y. Y., Lin, J. Y., Lv, H. W., Zhou, W., Zhou, X. F., et al. (2023). Comparison of 
+volatile and nonvolatile metabolites in green tea under hot-air drying and four 
+heatconduction drying patterns using widely targeted metabolomics. Food Chemistry, 
+X(19), Article 100767. https://doi.org/10.1016/j.fochx.2023.100767
+Wang, A., Wang, Y., Kan, H., Hao, J., Hu, Q., Lu, B., et al. (2023). Comparison of different 
+drying techniques for Zanthoxylum bungeanum leaves: Changes in color, 
+microstructure, antioxidant capacities, and volatile components. LWT, 188, Article 
+115469. https://doi.org/10.1016/j.lwt.2023.115469
+Wang, J., Jiang, S., Miao, S., Zhang, L., Deng, K., & Zheng, B. (2023). Effects of drying on 
+the quality characteristics and release of umami substances of Flammulina velutipes. 
+Food Bioscience, 51, Article 102338. https://doi.org/10.1016/j.fbio.2022.102338
+Wen, X., Li, W., Li, W., Chen, W., Zhang, Z., Wu, D., et al. (2022). Quality characteristics 
+and non-volatile taste formation mechanism of Lentinula edodes during hot air 
+drying. Food Chemistry, 393, Article 133378. https://doi.org/10.1016/j. 
+foodchem.2022.133378
+Xu, Y., Xiao, Y., Lagnika, C., Li, D., Liu, C., Jiang, N., et al. (2020). A comparative 
+evaluation of nutritional properties, antioxidant capacity and physical 
+characteristics of cabbage (Brassica oleracea var. Capitate var L.) subjected to 
+different drying methods. Food Chemistry, 309, Article 124935. https://doi.org/ 
+10.1016/j.foodchem.2019.06.002
+Yamaguchi, S., Yoshikawa, T., Ikeda, S., & Ninomiya, T. (1971). Measurement of the 
+relative taste intensity of some L-α-amino acids and 5’-nucleotides. Journal of Food 
+Science, 36(6), 846–849. https://doi.org/10.1111/j.1365-2621.1971.tb15541.x
+Zhang, L., Zhang, M., & Mujumdar, A. S. (2021). Development of flavor during drying 
+and applications of edible mushrooms: A review. Drying Technology, 39(11), 
+1685–1703. https://doi.org/10.1080/07373937.2021.1875231
+Zhang, Y., Li, X., Zhao, Z. E. H., Fan, T., Dong, H., et al. (2023). Comprehensive 
+investigation on non-volatile and volatile flavor compounds in the Morchella 
+sextelata and Morchella importuna by UPLC-MS/MS and GC × GC-TOF-MS. Food 
+Chemistry: X, 20, Article 100961. https://doi.org/10.1016/j.fochx.2023.100961
+Zhao, R., Xiao, H., Liu, C., Wang, H., Wu, Y., Ben, A., et al. (2023). Dynamic changes in 
+volatile and non-volatile flavor compounds in lemon flavedo during freeze-drying and 
+hot-air drying. LWT, 175, Article 114510. https://doi.org/10.1016/j. 
+lwt.2023.114510
+Zhao, Y., Gao, R., Zhuang, W., Xiao, J., Zheng, B., & Tian, Y. (2020). Combined single- 
+stage tempering and microwave vacuum drying of the edible mushroom Agrocybe 
+chaxingu: Effects on drying characteristics and physical-chemical qualities. LWT, 
+128, Article 109372. https://doi.org/10.1016/j.lwt.2020.109372
+Zhou, C., Feng, Y., Zhang, L., Yagoub, A. E. A., Wahia, H., Ma, H., et al. (2021). 
+Rehydration characteristics of vacuum freeze- and hot air-dried garlic slices. LWT, 
+143, Article 111158. https://doi.org/10.1016/j.lwt.2021.111158
+Y. Liao et al.                                                                                                                                                                                                                                     
+Food Chemistry: X 25 (2025) 102220 
+12 

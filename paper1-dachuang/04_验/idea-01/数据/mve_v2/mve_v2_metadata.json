@@ -1,0 +1,33 @@
+{
+  "dataset_version": "v2",
+  "created": "2026-07-21",
+  "n_rows": 100,
+  "n_compounds": 50,
+  "n_categories": 10,
+  "sources": {
+    "Liao2025": 54,
+    "Liu2024_v1": 46
+  },
+  "category_distribution": {
+    "aldehydes": 28,
+    "alcohols": 28,
+    "alkanes": 13,
+    "ketones": 12,
+    "esters": 4,
+    "hydrocarbons": 4,
+    "others": 4,
+    "aromatics": 3,
+    "acids": 2,
+    "pyrazines": 2
+  },
+  "yi2025_stats": {
+    "total_nonvolatile": 1419,
+    "total_volatile": 270,
+    "differentially_abundant": 511,
+    "new_metabolites_pileus": 37,
+    "new_metabolites_stipe": 35,
+    "drying_temp_C": 55,
+    "journal": "Food Science & Nutrition",
+    "doi": "10.1002/fsn3.70826"
+  }
+}
