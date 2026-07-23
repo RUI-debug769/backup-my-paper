@@ -372,6 +372,7 @@ Paper 3:
 | 2026-07-15 | Paper 1 完善度检查 + Paper 2 同步 | P1前期100%完成, 等实验; P2 Layer 1 MD可立即开始 | 更新 PROJECT_STATE |
 | 2026-07-16 | **三篇论文可行性分析 + Paper B 启动** | 确认全年供应/LC-MS内部/L20×4资源；Paper B 从 Paper 2 解耦独立；建立 3/ 目录 + 检索式 | 新建 4 文件，更新 PROJECT_STATE |
 | 2026-07-18 | **目录编号规范化 + MD 工作迁移** | Paper B→Paper 2(MD), Paper 2→Paper 3(Nature Food)；MD 工作从 3/04_验/ 迁至 2/04_验/；PROJECT_STATE.md 全面更新 | 迁移 ~30 文件，更新 PROJECT_STATE |
+| 2026-07-23 | **暑假课题全局整理 + 仪器核查** | 10 条关键决策；暑假 6 周框架（P0 实验/P1 写作/P2 MD）；浙工商仪器清单；W1 执行清单；Paper 2 改为 MD+湿实验 | 新建 3 文件，更新 PROJECT_STATE |
 
 ---
 
